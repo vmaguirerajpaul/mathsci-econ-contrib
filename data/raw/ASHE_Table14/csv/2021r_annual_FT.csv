@@ -1,0 +1,554 @@
+Description,Code,No_jobs,Median,change,Mean,change.1,10,20,25,30,40,60,70,75,80,90
+All employees,XX,17445,31224,,38066,,18254,21374,22880,24455,27703,35442,40632,43625,47374,60726
+"Managers, directors and senior officials",1,2289,43428,,58117,,22275,27602,30000,32237,37727,50415,60000,66250,74815,100664
+ Corporate managers and directors,11,1801,48163,,63939,,23748,29937,32623,35590,41596,56284,66862,73960,82244,111412
+  Chief Executives and Senior Officials,111,98,79588,,122711,,31731,45821,51059,55155,66055,92658,110827,121880,x,x
+   Chief executives and senior officials,1111,92,84003,,128208,,40000,50231,54107,60000,70800,96167,114809,125410,x,x
+   Elected officers and representatives,1112,x,x,,25172,,x,x,x,x,x,x,x,x,x,x
+  Production Managers and Directors,112,457,45022,,54956,,24161,30000,32905,35758,40315,50755,58750,64218,70017,89284
+   Production managers and directors in manufacturing,1121,364,44978,,56001,,24000,29994,32016,35439,40000,51113,60000,66228,73715,93027
+   Production managers and directors in construction,1122,87,45119,,50484,,25545,32420,34982,36653,41296,49670,54553,58859,64170,x
+   Production managers and directors in mining and energy,1123,x,45000,,56110,,x,x,x,x,44436,x,x,x,x,x
+  Functional Managers and Directors,113,836,58066,,73752,,29873,37031,40502,43857,50536,67856,78872,85947,94695,123026
+   Financial managers and directors,1131,353,60140,,77082,,28435,36000,39776,43343,51010,70251,82297,90000,100506,136537
+"   Marketing, sales and advertising directors",1132,185,74830,,91267,,35547,45459,50000,53264,62991,85293,98860,106143,115000,x
+   Public relations and communications directors,1133,x,58562,,66366,,x,x,x,51577,53390,65715,x,x,x,x
+   Purchasing managers and directors,1134,60,47110,,50474,,29176,31857,34196,38927,43371,52466,56996,59494,64547,x
+   Charitable organisation managers and directors,1135,x,x,,41432,,x,x,x,x,x,x,x,x,x,x
+   Human resource managers and directors,1136,123,46004,,51507,,29035,33967,35729,37334,41801,51140,56632,60092,64394,x
+   Information technology directors,1137,48,63156,,79948,,x,41849,46824,51276,57971,73993,85498,x,x,x
+   Functional managers and directors n.e.c.,1139,56,60527,,66850,,28768,38225,42132,44886,51028,68995,77286,81524,86707,x
+"  Directors in Logistics, Warehousing and Transport",114,x,x,,67015,,x,x,x,x,x,x,x,x,x,x
+"   Directors in logistics, warehousing and transport",1140,x,x,,67015,,x,x,x,x,x,x,x,x,x,x
+  Managers and Directors in Retail and Wholesale,115,344,29830,,37573,,18967,21791,22920,24276,27091,33371,37889,40798,44462,59409
+   Managers and directors in retail and wholesale,1150,344,29830,,37573,,18967,21791,22920,24276,27091,33371,37889,40798,44462,59409
+  Senior Officers in Protective Services,116,13,57081,,58900,,x,46632,50236,54076,55755,58851,61388,x,x,x
+   Officers in armed forces,1161,:,,,,,,,,,,,,,,
+   Senior police officers,1162,9,58872,,62755,,x,x,55779,56291,57161,60874,x,x,x,x
+"   Senior officers in fire, ambulance, prison and related services",1163,x,47129,,49359,,x,x,x,x,x,x,x,x,x,x
+  Health and Social Services Managers and Directors,117,47,45005,,48558,,25230,30909,33222,34633,40643,49363,54963,57274,60820,x
+   Health services and public health managers and directors,1171,36,48518,,51111,,25414,32051,34714,38868,44503,51828,56790,59762,61836,x
+   Social services managers and directors,1172,11,35122,,40201,,x,27689,29959,30702,33502,38266,x,x,x,x
+ Other managers and proprietors,12,488,32095,,36649,,19936,22992,24919,26423,29165,35850,40647,42808,45616,55733
+  Managers and Proprietors in Agriculture Related Services,121,20,32547,,34670,,21458,25210,26149,26977,30138,34178,39030,41111,x,x
+   Managers and proprietors in agriculture and horticulture,1211,14,33389,,36375,,x,26144,27986,30079,32519,36994,39473,x,x,x
+"   Managers and proprietors in forestry, fishing and related services",1212,x,26948,,30118,,x,x,x,x,26202,x,x,x,x,x
+  Managers and Proprietors in Hospitality and Leisure Services,122,95,25435,,28761,,17692,19605,20514,21619,23047,27773,30984,33065,35176,x
+   Hotel and accommodation managers and proprietors,1221,12,26698,,35855,,x,19579,20478,21930,24210,31335,x,x,x,x
+   Restaurant and catering establishment managers and proprietors,1222,38,22996,,24859,,15477,18675,19251,20262,22398,25804,27735,29314,30003,x
+   Publicans and managers of licensed premises,1223,21,24615,,28289,,18039,20341,21019,21726,23065,27719,31370,34086,x,x
+   Leisure and sports managers,1224,23,29289,,31748,,19099,20540,21904,23372,25737,32299,35746,38110,x,x
+   Travel agency managers and proprietors,1225,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+  Managers and Proprietors in Health and Care Services,123,70,36889,,37490,,23707,26241,27840,29068,32619,40431,42800,44667,46323,x
+   Health care practice managers,1231,18,39556,,38537,,x,27298,28688,29153,32066,41755,43536,45591,x,x
+"   Residential, day and domiciliary care managers and proprietors",1232,51,36906,,37472,,23732,26225,27979,29290,33298,39883,42602,44092,46237,x
+   Early education and childcare services proprietors,1233,x,x,,20445,,x,x,x,x,x,x,x,x,x,x
+"  Managers in Logistics, Warehousing and Transport",124,161,33242,,37341,,21447,24777,26295,27673,30600,36200,40703,42793,46214,57689
+   Managers in transport and distribution,1241,59,38702,,42403,,23126,27994,29777,31447,34772,41904,47994,50413,54990,x
+   Managers in storage and warehousing,1242,85,30023,,32643,,19377,22442,23493,25104,27746,32509,35514,36845,39071,x
+   Managers in logistics,1243,18,37688,,43078,,x,28033,29700,31673,35327,42194,46029,x,x,x
+  Managers and Proprietors in Other Services,125,142,34285,,41030,,20294,23936,26257,27430,30000,39447,44354,47223,51173,x
+"   Property, housing and estate managers",1251,78,36107,,41871,,21748,26991,27947,29577,32426,40795,44954,47425,52054,x
+   Garage managers and proprietors,1252,x,37379,,41403,,x,x,x,x,29548,41068,x,x,x,x
+   Hairdressing and beauty salon managers and proprietors,1253,x,24386,,24940,,x,x,x,x,x,x,x,x,x,x
+   Waste disposal and environmental services managers,1254,x,40000,,x,,x,x,x,29035,31565,x,x,x,x,x
+   Managers and directors in the creative industries,1255,x,x,,54678,,x,x,27762,28937,x,x,x,x,x,x
+   Betting shop and gambling establishment managers,1256,x,19478,,20559,,x,x,x,x,x,x,x,x,x,x
+   Hire services managers and proprietors,1257,x,x,,35820,,x,x,x,x,x,x,x,x,x,x
+   Directors in consultancy services,1258,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+   Managers and proprietors in other services n.e.c.,1259,28,29734,,37536,,18238,19467,21435,22340,25695,34659,41040,x,x,x
+Professional occupations,2,5109,40737,,45829,,25154,30025,31892,33758,37279,44252,48856,51631,55000,67996
+" Science, research, engineering and technology professionals",21,1388,42405,,47132,,25963,30904,32969,35162,38760,46706,51514,54553,58355,69967
+  Natural and Social Science Professionals,211,101,38054,,42432,,24360,28498,30596,32300,35295,40867,43648,45887,48440,x
+   Chemical scientists,2111,x,x,,x,,x,27418,27957,x,x,x,x,x,x,x
+   Biological scientists,2112,14,38755,,40686,,x,27335,29684,30756,32800,40797,x,x,x,x
+   Biochemists and biomedical scientists,2113,30,38735,,43021,,24139,27947,30073,32541,36615,41320,44847,46674,48841,x
+   Physical scientists,2114,x,40167,,39720,,x,x,x,34587,38162,43032,x,x,x,x
+   Social and humanities scientists,2115,x,32789,,34917,,x,x,28569,29652,31802,36834,x,x,x,x
+   Natural and social science professionals n.e.c.,2119,25,39539,,41868,,28099,32067,33868,34809,36856,42317,43833,46333,x,x
+  Engineering Professionals,212,372,42437,,45290,,26858,31486,33378,35877,39073,46039,50054,52232,54947,62958
+   Civil engineers,2121,57,42121,,49628,,27389,31093,32347,35439,38652,44695,49493,52688,53967,x
+   Mechanical engineers,2122,x,40580,,43878,,28011,33897,35696,36830,39194,43944,x,x,x,x
+   Electrical engineers,2123,38,49143,,50710,,25353,36324,38675,41425,44741,52442,55423,59601,x,x
+   Electronics engineers,2124,x,50510,,49483,,x,x,x,x,x,x,x,x,x,x
+   Production and process engineers,2125,56,41402,,42381,,24375,30367,31878,34265,37549,43158,46591,48462,51145,x
+   Aerospace engineers,2126,24,40858,,42116,,x,32237,33600,35770,38692,44758,45881,48868,x,x
+   Engineering project managers and project engineers,2127,82,43268,,44963,,25522,30978,34609,36383,40359,47171,50735,54815,57110,x
+   Engineering professionals n.e.c.,2129,83,40211,,43264,,x,30884,32305,33756,36875,44647,49288,51364,x,x
+  Information Technology Professionals,213,755,45000,,49890,,27425,32490,34710,36931,40687,49745,55005,58619,62338,75000
+   IT project managers,2131,32,47740,,54719,,29979,36094,37696,38538,42178,51584,59290,62567,x,x
+   IT managers,2132,212,47282,,52927,,28159,34047,37025,39634,43064,52399,58848,62188,66576,x
+"   IT business analysts, architects and systems designers",2133,128,49512,,53835,,29637,35988,37890,40056,44148,54942,61284,64009,67924,x
+   Programmers and software development professionals ,2134,273,42592,,47430,,27071,31330,33366,35484,39000,47272,51746,55000,58792,x
+   Cyber security professionals,2135,x,49836,,49901,,x,x,33470,34563,40082,52125,x,x,x,x
+   IT quality and testing professionals,2136,x,38649,,38272,,x,x,x,31145,35243,41047,x,x,x,x
+   IT network professionals,2137,18,39170,,42678,,x,30553,31708,34001,36565,42921,46652,x,x,x
+   Information technology professionals n.e.c.,2139,71,38808,,44367,,24701,29652,30923,32518,35660,43519,49893,52798,55058,x
+  Web and Multimedia Design Professionals,214,39,26797,,30717,,19781,21604,23071,23862,25000,28334,31030,32472,x,x
+   Web design professionals,2141,x,33574,,34112,,x,x,x,x,x,x,x,x,x,x
+   Graphic and multimedia designers,2142,33,26000,,30115,,20132,21438,22425,23754,25000,28094,30196,31022,x,x
+  Conservation and Environment Professionals,215,48,32518,,35999,,21716,24070,25723,26890,30246,35549,38918,39972,43811,x
+   Conservation professionals,2151,11,30506,,32543,,x,23086,23806,24660,27031,33056,x,x,x,x
+   Environment professionals,2152,38,32887,,36985,,21498,24533,26280,27115,30620,36055,39506,43335,x,x
+  Research and Development (R&D) and Other Research Professionals,216,73,44162,,50540,,28487,34231,x,37037,40000,48393,53744,57270,60895,x
+   Research and development (R&D) managers ,2161,55,47755,,54364,,28488,x,36928,39644,44010,52610,58240,61330,x,x
+"   Other researchers, unspecified discipline",2162,18,37486,,38900,,x,32570,34350,35313,36466,39061,40196,41340,x,x
+ Health professionals,22,934,38666,,43911,,24697,29576,31029,32542,35363,41998,45839,48214,51393,66261
+  Medical Practitioners,221,154,63627,,74141,,30120,42170,45144,48924,55129,74743,89262,97536,105352,129597
+   Generalist medical practitioners,2211,44,50901,,54414,,26678,38089,42937,44599,47914,54718,63649,66855,71435,x
+   Specialist medical practitioners,2212,110,75114,,81951,,31824,44304,48415,53629,62489,86686,101795,111419,118549,x
+  Therapy Professionals,222,96,34854,,37269,,24180,26501,28017,29775,32523,38530,41874,43734,45710,x
+   Physiotherapists,2221,38,35169,,37145,,24356,26804,29384,30613,33351,38943,42279,44308,45709,x
+   Occupational therapists,2222,22,33676,,33408,,23014,25892,26832,27669,31624,35531,38161,39375,x,x
+   Speech and language therapists,2223,8,32664,,34653,,x,x,26489,27865,31552,35030,x,x,x,x
+   Psychotherapists and cognitive behaviour therapists,2224,x,35396,,35268,,x,x,x,x,x,x,x,x,x,x
+   Clinical psychologists,2225,x,45260,,45699,,x,x,x,x,40163,x,x,x,x,x
+   Other psychologists,2226,11,40558,,46460,,x,27080,28536,28813,31659,49933,x,x,x,x
+   Therapy professionals n.e.c.,2229,x,31365,,32876,,x,x,x,25516,30768,32228,x,x,x,x
+  Nursing Professionals,223,542,36098,,37055,,23816,28665,30102,31053,33629,38694,41537,43409,45079,50728
+   Midwifery nurses,2231,20,41188,,39883,,x,30818,34402,37194,40091,42634,45075,46685,x,x
+   Community nurses,2232,41,33603,,33102,,23837,26612,27719,29143,31557,35327,37983,39177,39772,x
+   Specialist nurses,2233,38,38211,,38937,,26947,31355,32506,33269,34886,40501,44024,44697,46099,x
+   Nurse practitioners,2234,46,40391,,39720,,24136,28972,30728,32019,36903,43203,45155,46958,48557,x
+   Mental health nurses,2235,12,35937,,39154,,x,31020,31569,32728,33911,40421,x,x,x,x
+   Children's nurses,2236,8,32613,,32822,,x,x,x,25215,29366,33621,41058,x,x,x
+   Other nursing professionals ,2237,377,35601,,36852,,23659,28440,29925,30879,33176,38037,41165,42811,44850,50250
+  Veterinarians,224,15,40256,,40778,,x,33132,34193,35487,38232,41947,44186,44844,x,x
+   Veterinarians,2240,15,40256,,40778,,x,33132,34193,35487,38232,41947,44186,44844,x,x
+  Other Health Professionals,225,128,41425,,41863,,x,x,x,x,38055,44538,x,x,x,x
+   Pharmacists,2251,38,44586,,43949,,24062,34434,36137,37845,41772,47248,48928,50420,51966,x
+   Optometrists,2252,x,42476,,45973,,x,x,x,x,40297,x,x,x,x,x
+   Dental practitioners,2253,x,49954,,55637,,x,x,x,x,x,x,x,x,x,x
+   Medical radiographers,2254,19,40663,,41515,,x,33387,34676,35737,38890,44805,48789,49668,x,x
+   Paramedics,2255,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+   Podiatrists,2256,x,32001,,34764,,x,x,x,x,x,x,x,x,x,x
+   Other health professionals n.e.c.,2259,37,37224,,38015,,23215,26225,28617,30527,33541,39094,41802,43410,45986,x
+ Teaching and other educational professionals,23,1228,40396,,41725,,25617,29800,31882,33783,36961,42780,45872,47956,50616,59135
+  Teaching Professionals,231,1104,39990,,40642,,25978,30022,31922,33720,36784,42138,45150,46588,49133,55477
+   Higher education teaching professionals,2311,142,48402,,52043,,29489,35046,37970,39762,44493,52054,56132,59144,64094,x
+   Further education teaching professionals,2312,76,36792,,38269,,25902,29402,30795,32259,35003,39201,42251,44394,46412,x
+   Secondary education teaching professionals,2313,446,41326,,40973,,26595,30933,32849,34744,38614,43492,46005,47586,49554,54271
+   Primary education teaching professionals,2314,376,37831,,37832,,26147,29307,30790,32860,35582,40544,41925,43383,45046,50429
+   Nursery education teaching professionals,2315,x,x,,32314,,x,x,x,20080,24829,x,x,x,x,x
+   Special needs education teaching professionals,2316,31,33837,,34011,,17354,21536,24978,27056,31157,38348,41183,42184,44811,x
+   Teachers of English as a foreign language,2317,x,25924,,29710,,x,x,x,x,x,x,x,x,x,x
+   Teaching professionals n.e.c.,2319,23,28086,,30257,,16471,22638,23678,25489,27041,32150,35556,36961,x,x
+  Other Educational Professionals,232,125,47644,,51324,,22134,27044,30590,35020,41058,54973,62885,65397,67585,x
+   Head teachers and principals,2321,43,66054,,72544,,47604,56062,58761,60550,64062,69288,72377,73603,77795,x
+   Education managers ,2322,x,41134,,43799,,24509,27348,28510,32841,36751,x,x,x,x,x
+   Education advisers and school inspectors,2323,10,33633,,36754,,x,24677,26382,27829,30212,36363,x,x,x,x
+   Early education and childcare services managers,2324,18,23510,,24498,,x,17736,18583,19486,22005,24894,25608,26303,x,x
+   Other educational professionals n.e.c,2329,27,44973,,48065,,26194,32930,35654,38150,40399,48692,53592,57680,64231,x
+" Business, media and public service professionals",24,1559,41014,,49053,,24657,29854,31557,33600,37371,45198,51020,54131,58848,75007
+  Legal Professionals,241,152,45230,,61154,,21697,27194,30723,34344,39600,52411,65375,76186,85526,x
+   Barristers and judges,2411,x,x,,42799,,x,x,x,x,x,x,x,x,x,x
+   Solicitors and lawyers,2412,100,51000,,65119,,26650,34488,36183,39168,44022,59457,70330,80836,92192,x
+   Legal professionals n.e.c.,2419,40,32076,,56419,,18491,21304,22892,23958,28028,x,x,x,x,x
+  Finance Professionals,242,226,38830,,52907,,23912,28171,30273,32055,35624,43023,48672,51490,54550,x
+   Chartered and certified accountants,2421,79,41513,,45089,,24376,29954,x,34818,38326,45009,49944,51885,x,x
+   Finance and investment analysts and advisers,2422,128,36208,,57948,,22611,26463,28367,30214,33897,39554,46005,49537,53309,x
+   Taxation experts,2423,19,44171,,51485,,x,32595,34836,35445,38503,50068,x,x,x,x
+"  Business, Research and Administrative Professionals",243,401,41809,,47414,,26563,30759,32193,34071,37877,46149,52551,55704,59598,72065
+   Management consultants and business analysts,2431,168,42631,,48094,,25509,30241,32107,34181,38317,47106,54575,58115,61629,x
+   Marketing and commercial managers,2432,76,45314,,49728,,27007,32017,34852,37443,41225,50255,56442,59273,64093,x
+"   Actuaries, economists and statisticians",2433,23,47838,,58654,,x,32341,33960,37901,42717,52237,58988,x,x,x
+   Business and related research professionals,2434,87,35353,,38315,,25951,29209,30460,31219,33649,37991,40153,41468,43296,x
+   Professional/Chartered company secretaries ,2435,x,x,,57292,,x,x,x,x,x,x,x,x,x,x
+"   Business, research and administrative professionals n.e.c.",2439,44,49567,,52353,,30175,34747,37647,40014,46186,53741,57584,59387,63649,x
+  Business and Financial Project Management Professionals,244,244,48811,,53633,,28167,35614,38096,40454,44585,53417,59574,64637,68920,x
+   Business and financial project management professionals,2440,244,48811,,53633,,28167,35614,38096,40454,44585,53417,59574,64637,68920,x
+"  Architects, Chartered Architectural Technologists, Planning Officers, Surveyors and Construction Professionals",245,172,39959,,42845,,25495,29694,30987,32329,35905,43375,47999,49992,54258,x
+   Architects,2451,38,41993,,44607,,27675,31043,32565,34422,38455,44515,47755,49108,x,x
+"   Chartered architectural technologists, planning officers and consultants",2452,x,31543,,35642,,x,x,27762,28812,30241,34179,x,x,x,x
+   Quantity surveyors,2453,41,45092,,46991,,22161,29169,31069,33734,39148,50113,57128,59379,60775,x
+   Chartered surveyors,2454,64,38641,,40789,,25704,29934,31270,32104,35269,41266,x,x,x,x
+   Construction project managers and related professionals,2455,20,37468,,40789,,x,28038,29226,30249,33452,40004,43646,x,x,x
+  Welfare Professionals,246,124,36717,,36323,,23624,28501,30607,31693,34068,38621,40643,42209,43455,47022
+   Social workers,2461,88,37890,,38184,,26894,31749,33024,33914,36068,39438,41924,43106,44577,x
+   Probation officers,2462,10,37577,,35416,,x,x,30958,31897,33825,38599,38929,x,x,x
+   Clergy,2463,16,27563,,28881,,x,21930,22996,23908,25547,28874,31453,x,x,x
+   Youth work professionals,2464,x,32403,,34051,,x,x,x,x,x,x,x,x,x,x
+   Welfare professionals n.e.c.,2469,x,28574,,32584,,x,x,x,25071,26739,35620,x,x,x,x
+  Librarians and Related Professionals,247,15,28291,,31980,,x,23555,24721,25598,26605,32257,34822,x,x,x
+   Librarians,2471,x,27608,,32192,,x,x,22457,23493,25608,30232,x,x,x,x
+   Archivists and curators,2472,x,28346,,31671,,x,x,x,x,27313,32757,x,x,x,x
+  Quality and Regulatory Professionals,248,159,40000,,51024,,24216,29725,31439,33005,36868,43858,48749,51592,54770,x
+   Quality control and planning engineers,2481,55,38258,,38923,,24004,28498,29734,31280,33890,41004,43897,45786,48469,x
+   Quality assurance and regulatory professionals,2482,93,42109,,x,,24233,30284,32235,34757,38494,48285,53610,56643,61541,x
+   Environmental health professionals,2483,11,38179,,41504,,x,32036,32663,35588,36866,40598,x,x,x,x
+  Media Professionals,249,66,34839,,39989,,x,25890,27884,29392,31647,38679,43820,47045,x,x
+   Newspaper and periodical editors,2491,11,38086,,45733,,x,27538,30942,31508,35400,42504,x,x,x,x
+   Newspaper and periodical journalists and reporters,2492,x,29894,,33881,,x,x,x,x,26710,x,x,x,x,x
+   Public relations professionals,2493,25,31199,,34076,,20921,24169,25157,27399,29716,34257,36662,39460,x,x
+   Advertising accounts managers and creative directors,2494,x,x,,45102,,x,x,x,x,x,x,x,x,x,x
+Associate professional occupations,3,2992,31691,,37408,,20075,23390,24880,26227,28840,35000,39482,41929,45023,55200
+" Science, engineering and technology associate professionals",31,638,29462,,31861,,19642,22292,23756,24982,27121,31887,34852,36694,39127,46507
+"  Science, Engineering and Production Technicians",311,353,29023,,31616,,19384,22037,23379,24492,26584,31576,34829,36599,38936,46736
+   Laboratory technicians,3111,39,22695,,26088,,17286,18344,19210,19931,21362,24030,25489,26624,x,x
+   Electrical and electronics technicians ,3112,10,34306,,34744,,x,23454,26822,27915,32886,36873,38336,x,x,x
+   Engineering technicians ,3113,60,36264,,39410,,23644,27487,29692,30848,32973,38817,42592,44975,46795,x
+   Building and civil engineering technicians ,3114,x,30249,,33827,,x,x,x,x,28103,x,x,x,x,x
+   Quality assurance technicians ,3115,23,27259,,28147,,20185,22493,23680,24169,25307,28206,30073,30965,x,x
+"   Planning, process and production technicians",3116,44,31218,,34002,,22931,25595,26471,27845,29007,33935,36594,38474,41770,x
+"   Science, engineering and production technicians n.e.c.",3119,171,27720,,29722,,18845,21528,22324,23609,25824,30289,32917,34750,36513,42966
+"  CAD, Drawing and Architectural Technicians",312,43,30100,,32247,,23107,25707,26416,27224,28665,31583,33995,34814,36602,x
+"   CAD, drawing and architectural technicians",3120,43,30100,,32247,,23107,25707,26416,27224,28665,31583,33995,34814,36602,x
+  Information Technology Technicians,313,241,29677,,32149,,19664,22219,23813,25213,27410,32237,35133,37189,39521,46216
+   IT operations technicians,3131,67,29888,,31891,,19428,21854,23080,25207,27214,32589,35688,37960,40067,x
+   IT user support technicians,3132,153,29574,,31966,,19800,22371,24074,25112,27389,32220,35086,36998,39227,45475
+   Database administrators and web content technicians,3133,21,29709,,34336,,x,22133,24427,25581,28050,32036,33976,x,x,x
+ Health and social care associate professionals,32,389,24306,,25226,,16324,18614,19742,20714,22466,26028,27696,28799,29929,33492
+  Health Associate Professionals,321,42,24884,,27351,,19055,20226,21522,22033,23104,26022,27844,29860,30971,x
+   Dispensing opticians,3211,x,25667,,26149,,x,x,x,x,24532,26276,x,x,x,x
+   Pharmaceutical technicians,3212,15,25304,,26966,,x,20968,21963,22479,24262,26689,27489,x,x,x
+   Medical and dental technicians,3213,19,24212,,28442,,19265,20157,21353,21742,22577,25602,28807,30303,x,x
+   Complementary health associate professionals,3214,..,,,,,,,,,,,,,,
+   Health associate professionals n.e.c.,3219,x,19737,,23608,,x,x,x,x,x,x,x,x,x,x
+  Welfare and Housing Associate Professionals,322,236,26566,,27746,,19275,21500,22610,23434,25102,27948,29512,30450,31502,35503
+   Youth and community workers,3221,65,27100,,27612,,19768,22284,23277,24148,26256,28199,29695,30675,31550,x
+   Child and early years officers,3222,37,25530,,25599,,18382,20949,21480,22516,24396,26460,28033,28795,29967,x
+   Housing officers,3223,38,28993,,29622,,21134,23628,24927,25686,27099,30450,31346,32490,33364,x
+   Counsellors,3224,10,28870,,x,,x,x,22841,24144,25885,29498,x,x,x,x
+   Welfare and housing associate professionals n.e.c.,3229,86,25187,,26425,,18597,20412,21453,22413,23836,26835,28319,29128,30346,x
+  Teaching and Childcare Associate Professionals,323,91,18340,,18494,,11932,14537,15231,16317,17436,19535,20997,21824,22591,x
+   Higher level teaching assistants,3231,24,21710,,21294,,15914,17591,18335,19112,20149,22454,23172,23521,x,x
+   Early education and childcare practitioners,3232,67,17565,,17477,,11211,13456,14488,15099,16566,18344,19517,20335,21055,x
+  Veterinary nurses,324,21,21827,,21689,,x,17586,18121,18361,20081,23306,24513,25344,x,x
+   Veterinary nurses,3240,21,21827,,21689,,x,17586,18121,18361,20081,23306,24513,25344,x,x
+ Protective service occupations,33,319,40627,,40091,,26968,30889,32475,33866,37167,42267,44840,46202,47883,52947
+  Protective Service Occupations,331,319,40627,,40091,,26968,30889,32475,33866,37167,42267,44840,46202,47883,52947
+   Non-commissioned officers and other ranks,3311,:,,,,,,,,,,,,,,
+   Police officers (sergeant and below),3312,228,42184,,41510,,27873,31548,33924,36189,40688,44164,46256,47561,49061,53690
+   Fire service officers (watch manager and below),3313,50,36556,,37102,,27593,32087,32785,33318,34377,38066,40461,40966,42420,x
+   Prison service officers (below principal officer),3314,21,32188,,32752,,24466,25955,26174,26832,29074,34085,34966,36372,x,x
+   Protective service associate professionals n.e.c.,3319,21,34110,,38946,,23380,26663,28361,29501,31643,35999,39558,x,x,x
+" Culture, media and sports occupations",34,109,29364,,x,,18343,21840,22937,24160,26989,32397,36188,38878,41993,x
+"  Artistic, Literary and Media Occupations",341,43,32000,,39136,,20718,23145,24955,26047,28517,34991,38879,41589,x,x
+   Artists,3411,x,x,,35932,,x,x,x,x,x,x,x,x,x,x
+"   Authors, writers and translators",3412,12,31451,,38344,,x,23368,26044,26349,28074,34812,x,x,x,x
+"   Actors, entertainers and presenters",3413,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+   Dancers and choreographers,3414,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+   Musicians,3415,x,x,,38919,,x,x,x,x,x,x,x,x,x,x
+"   Arts officers, producers and directors",3416,12,38601,,50661,,x,27972,30829,32441,34849,46333,x,x,x,x
+"   Photographers, audio-visual and broadcasting equipment operators",3417,11,25118,,27279,,x,19681,21750,22302,24199,27215,x,x,x,x
+  Design Occupations ,342,37,31392,,34004,,22521,24900,26759,27255,28859,34001,36134,38265,40584,x
+   Interior designers,3421,22,30540,,34103,,x,26742,27290,28080,29162,33862,35671,x,x,x
+"   Clothing, fashion and accessories designers",3422,x,34549,,34193,,x,x,x,x,x,x,x,x,x,x
+   Design occupations n.e.c.,3429,10,28886,,33676,,x,x,24985,25463,26842,x,x,x,x,x
+  Sports and Fitness Occupations,343,29,22720,,x,,x,17228,18041,18523,20726,25527,x,x,x,x
+   Sports players,3431,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+"   Sports coaches, instructors and officials",3432,18,22452,,23860,,x,17519,18238,18497,19769,24987,26724,x,x,x
+   Fitness and wellbeing instructors,3433,x,18862,,20246,,x,x,x,x,17795,20467,x,x,x,x
+ Business and public service associate professionals,35,1537,34209,,40652,,21551,25000,26649,28103,31000,38000,42615,45883,49732,64434
+  Transport Associate Professionals,351,12,55124,,64637,,x,35433,39559,42166,52740,x,x,x,x,x
+   Aircraft pilots and air traffic controllers,3511,9,62314,,70071,,x,x,45155,51000,54882,x,x,x,x,x
+   Ship and hovercraft officers,3512,x,x,,45140,,x,x,x,x,x,x,x,x,x,x
+  Legal Associate Professionals,352,32,29019,,35268,,19722,21666,23466,24995,27487,30917,34735,x,x,x
+   Legal associate professionals,3520,32,29019,,35268,,19722,21666,23466,24995,27487,30917,34735,x,x,x
+  Finance Associate Professionals,353,161,39582,,46886,,24199,28124,29733,31462,34716,44032,47959,51275,55168,x
+   Brokers,3531,x,x,,57009,,x,x,x,x,47671,x,x,x,x,x
+   Insurance underwriters,3532,15,33978,,48593,,x,27557,28553,29155,31932,41148,x,x,x,x
+   Financial and accounting technicians,3533,28,40513,,43495,,24034,28446,30019,32162,36070,45597,48838,51689,x,x
+   Financial accounts managers,3534,109,39029,,46712,,24492,28200,29741,31553,34966,42856,46919,49809,52934,x
+  Business Associate Professionals,354,230,30063,,34810,,20770,23102,24391,25371,27909,32821,36257,38204,40694,x
+"   Estimators, valuers and assessors",3541,44,31454,,37728,,23242,25058,26002,27052,29516,35112,38606,40992,44374,x
+   Importers and exporters,3542,x,34534,,36598,,x,x,x,x,x,x,x,x,x,x
+   Project support officers,3543,32,29007,,31658,,x,x,x,x,26829,29877,x,x,x,x
+   Data analysts,3544,95,31643,,34152,,21340,24398,25570,27440,29395,34151,37318,39284,42247,x
+   Business associate professionals n.e.c.,3549,57,26661,,35385,,19386,20791,21291,22239,24540,28761,33349,35667,x,x
+"  Sales, Marketing and Related Associate Professionals",355,759,36632,,43756,,21829,25363,27088,28865,32413,41140,47746,50783,56530,72738
+   Buyers and procurement officers,3551,42,31556,,34377,,22764,25090,26354,27666,29421,34361,36591,38208,40037,x
+   Business sales executives,3552,152,33622,,38926,,21214,24667,26125,27733,30424,37175,41392,44668,47040,x
+   Merchandisers ,3553,10,24026,,25121,,x,x,19198,19727,22591,25419,x,x,x,x
+   Marketing associate professionals,3554,122,28000,,31601,,19082,22068,23061,23801,25606,29825,32884,35637,37353,x
+   Estate agents and auctioneers,3555,23,26011,,28582,,18274,19978,21074,21778,23897,27326,30065,31548,x,x
+   Sales accounts and business development managers,3556,385,45826,,52882,,26080,32000,34475,36453,40667,50163,58159,63086,68085,86359
+   Events managers and organisers,3557,25,26962,,28643,,20131,21000,21598,22183,24175,28407,30000,x,x,x
+  Public Services Associate Professionals,356,91,34716,,35110,,26475,30429,31445,32175,33424,36815,38889,39940,40843,x
+   Public services associate professionals,3560,91,34716,,35110,,26475,30429,31445,32175,33424,36815,38889,39940,40843,x
+"  HR, Training and Other Vocational Associate Guidance Professionals",357,195,29465,,32322,,20032,22162,23556,24731,27189,31759,34279,36102,38895,x
+   Human resources and industrial relations officers,3571,96,28268,,31954,,19879,21973,23091,24291,26444,31079,33313,34917,37478,x
+   Careers advisers and vocational guidance specialists,3572,x,26518,,28073,,x,x,20970,21744,23943,27318,x,x,x,x
+   Information technology trainers,3573,x,35206,,36866,,x,x,x,x,x,x,x,x,x,x
+   Other vocational and industrial trainers,3574,86,30222,,32983,,20105,22873,24363,25720,27882,32341,35529,37255,40188,x
+  Regulatory Associate Professionals,358,58,35305,,40589,,26042,28606,29112,30834,32943,39632,42585,45023,50140,x
+   Inspectors of standards and regulations,3581,14,31142,,35751,,x,27267,27826,28353,29109,33549,x,x,x,x
+   Health and safety managers and officers,3582,44,38175,,42148,,26608,29212,30924,32131,34010,40630,44567,49449,51732,x
+Administrative and secretarial occupations,4,1851,24513,,27698,,17313,19414,20250,21071,22666,26782,29436,31026,33000,40485
+ Administrative occupations,41,1604,24920,,28017,,17693,19737,20560,21356,23000,27121,29739,31270,33179,41013
+  Administrative Occupations: Government and Related Organisations,411,203,26471,,27223,,19934,21119,21753,22452,24426,27867,29315,30282,31368,35030
+   National government administrative occupations,4111,174,26425,,26766,,19937,21119,21750,22448,24431,27804,29197,30098,31338,34655
+   Local government administrative occupations,4112,24,26595,,30309,,19791,20965,21748,22329,24187,28451,29884,30677,31365,x
+   Officers of non-governmental organisations,4113,x,27464,,28289,,x,x,x,23647,25086,28932,x,x,x,x
+  Administrative Occupations: Finance,412,389,24593,,28108,,17717,19725,20457,21331,22987,26715,29469,30850,33127,41810
+   Credit controllers,4121,19,24844,,28117,,19226,21510,x,x,24029,26484,x,x,x,x
+"   Book-keepers, payroll managers and wages clerks",4122,219,26106,,29314,,17810,20000,21049,22026,24148,28831,31789,34405,37043,46462
+   Bank and post office clerks,4123,74,22478,,26959,,17384,19248,19762,20129,21130,23692,24927,26077,27303,x
+   Finance officers,4124,20,25368,,27439,,20008,22156,22643,23117,24044,28473,30227,31274,32060,x
+   Financial administrative occupations n.e.c.,4129,57,22740,,25187,,16766,18687,19505,20085,21592,24578,26741,27994,29713,x
+  Administrative Occupations: Records,413,242,23618,,26283,,18000,19674,20516,21142,22274,25339,27378,28960,30461,35651
+   Records clerks and assistants,4131,76,23263,,25314,,18050,19457,20364,21077,21978,24717,26535,28489,30108,x
+   Pensions and insurance clerks and assistants,4132,33,22677,,25629,,x,x,19399,20264,21230,24087,25920,x,x,x
+   Stock control clerks and assistants,4133,70,24000,,27192,,18127,19859,20683,21376,22671,25775,27656,28992,30869,x
+   Transport and distribution clerks and assistants,4134,41,26008,,28937,,19340,21683,22399,22889,24491,28660,31189,32562,34096,x
+   Library clerks and assistants,4135,8,21326,,22094,,x,17441,19458,20275,20618,21976,23133,x,x,x
+   Human resources administrative occupations,4136,14,21873,,23050,,17426,19097,19311,19675,20740,22947,24181,25042,x,x
+  Administrative Occupations: Office Managers and Supervisors,414,235,30878,,34312,,19909,23000,24227,25811,28165,33473,37087,39082,42032,52504
+   Office managers,4141,147,31759,,34843,,19688,23010,24835,26383,29128,34191,37928,40000,43490,x
+   Office supervisors,4142,43,27372,,30323,,20114,22090,23068,23842,25902,29652,31954,33804,36516,x
+   Customer service managers,4143,46,31751,,36373,,20027,23935,25445,26950,28740,34998,38561,x,x,x
+  Other Administrative Occupations,415,535,23083,,26265,,16339,18499,19297,19964,21553,25199,27501,29262,31394,39080
+   Sales administrators,4151,36,22500,,24367,,17642,18985,19704,20443,21522,24220,25359,26000,27000,x
+   Data entry administrators,4152,11,20368,,24620,,x,17871,18097,18462,19679,22025,x,x,x,x
+   Other administrative occupations n.e.c.,4159,488,23183,,26440,,16224,18470,19303,19958,21614,25423,27939,29821,31577,40013
+ Secretarial and related occupations,42,247,22363,,25628,,15703,17506,18301,19198,20783,24376,27230,29000,31348,38160
+  Secretarial and Related Occupations,421,247,22363,,25628,,15703,17506,18301,19198,20783,24376,27230,29000,31348,38160
+   Medical secretaries,4211,21,21508,,21953,,17426,19186,19473,20101,21142,22683,x,24157,24343,x
+   Legal secretaries,4212,16,21798,,22952,,17217,18030,18728,19485,20665,22680,24224,26211,x,x
+   School secretaries,4213,12,20971,,21936,,x,17080,17935,19413,20417,22263,23240,24315,x,x
+   Company secretaries and administrators,4214,x,30258,,33741,,x,x,x,x,27688,x,x,x,x,x
+   Personal assistants and other secretaries,4215,103,28673,,31917,,17849,21196,22118,23629,26026,31538,34782,36389,38621,x
+   Receptionists,4216,90,18853,,19995,,14367,15837,16362,16833,17747,19663,21480,22362,23359,26766
+   Typists and related keyboard occupations,4217,x,20720,,21412,,x,x,x,x,x,x,x,x,x,x
+Skilled trades occupations,5,1372,28046,,29868,,17959,20607,21943,23172,25597,30713,33752,35520,37622,43874
+ Skilled agricultural and related trades,51,75,22128,,23437,,17780,19034,19500,19791,20869,23461,24984,25921,26942,x
+  Agricultural and Related Trades,511,75,22128,,23437,,17780,19034,19500,19791,20869,23461,24984,25921,26942,x
+   Farmers,5111,x,26339,,27969,,x,x,x,x,24165,27973,x,x,x,x
+   Horticultural trades,5112,x,21822,,22998,,x,x,x,x,x,23154,x,x,x,x
+   Gardeners and landscape gardeners,5113,29,21907,,22901,,x,x,19464,19706,20474,22906,24269,x,x,x
+   Groundsmen and greenkeepers,5114,27,20787,,22027,,17382,18515,18992,19279,19747,22105,23266,23832,25106,x
+   Agricultural and fishing trades n.e.c.,5119,11,25311,,26211,,x,21476,22115,23003,24475,26539,27048,x,x,x
+" Skilled metal, electrical and electronic trades",52,784,31125,,32637,,19895,23369,24878,26044,28670,33557,36501,38422,40294,46860
+"  Metal Forming, Welding and Related Trades",521,57,27544,,29440,,19390,21960,22946,24100,25235,29640,32115,33629,35187,x
+   Sheet metal workers,5211,x,23932,,27976,,x,x,x,21471,22129,x,x,x,x,x
+"   Metal plate workers, smiths, moulders and related occupations",5212,11,29634,,32498,,x,21915,23618,24799,26455,31116,x,x,x,x
+   Welding trades,5213,38,27467,,28199,,19441,22399,23247,24421,25184,29210,30744,32150,x,x
+   Pipe fitters,5214,x,33026,,37790,,x,x,x,x,x,x,x,x,x,x
+"  Metal Machining, Fitting and Instrument Making Trades",522,361,31322,,32849,,19445,22903,24516,25803,28520,34318,37219,39099,41165,47619
+   Metal machining setters and setter-operators,5221,57,28597,,29270,,19603,22272,23506,24642,26353,31073,32966,34538,35702,x
+"   Tool makers, tool fitters and markers-out",5222,8,31737,,34315,,x,x,28369,28864,30117,33541,x,x,x,x
+   Metal working production and maintenance fitters,5223,281,31893,,33626,,19153,22919,24695,26209,28938,35226,38519,40263,42334,49864
+   Precision instrument makers and repairers,5224,9,27224,,29070,,x,21165,21958,23423,25003,30167,x,x,x,x
+   Air-conditioning and refrigeration installers and repairers,5225,x,34943,,34576,,x,x,x,29745,31028,36543,x,x,x,x
+  Vehicle Trades,523,117,28435,,29145,,18498,21943,23146,24581,26473,30313,32469,33502,35081,x
+"   Vehicle technicians, mechanics and electricians",5231,82,28271,,28653,,18007,21822,22875,24366,26359,30074,32059,32989,34881,x
+   Vehicle body builders and repairers ,5232,17,26684,,26903,,x,21193,22520,23485,25275,28652,30927,31654,x,x
+   Vehicle paint technicians,5233,x,26954,,27230,,x,x,25240,25447,26187,28272,28810,x,x,x
+   Aircraft maintenance and related trades,5234,x,34535,,35250,,x,x,x,x,33375,35581,x,x,x,x
+   Boat and ship builders and repairers,5235,x,28787,,28476,,x,x,x,x,x,x,x,x,x,x
+   Rail and rolling stock builders and repairers,5236,x,45726,,42378,,x,x,x,x,36598,47853,x,x,x,x
+  Electrical and Electronic Trades,524,206,32478,,34089,,21126,25226,26347,28087,30400,35040,37892,39465,41171,48512
+   Electricians and electrical fitters,5241,88,31758,,32045,,20800,24675,25843,27395,29626,33880,36251,37611,39142,x
+   Telecoms and related network installers and repairers,5242,17,35002,,38144,,24000,26908,28008,29318,31670,37130,39024,41750,x,x
+"   TV, video and audio servicers and repairers",5243,x,25585,,26691,,x,x,x,x,x,26498,x,x,x,x
+   Computer system and equipment installers and servicers,5244,8,30833,,31731,,x,x,x,26149,28082,32465,x,x,x,x
+   Security system installers and repairers,5245,8,29468,,29105,,x,23607,x,24465,26301,31150,32226,x,x,x
+   Electrical service and maintenance mechanics and repairers,5246,56,33984,,35567,,x,25706,27179,28902,31275,37360,40413,42115,43316,x
+   Electrical and electronic trades n.e.c.,5249,26,35428,,38523,,24128,26832,28262,29910,32839,38181,42922,46725,49886,x
+"  Skilled Metal, Electrical and Electronic Trades Supervisors",525,44,35250,,37513,,23390,28035,29455,30929,32876,37621,41740,42555,44832,x
+"   Skilled metal, electrical and electronic trades supervisors",5250,44,35250,,37513,,23390,28035,29455,30929,32876,37621,41740,42555,44832,x
+ Skilled construction and building trades,53,256,29306,,30515,,19078,22288,24000,25000,27155,31376,33998,35571,37574,43397
+  Construction and Building Trades,531,175,28083,,28676,,17976,21462,23015,24251,26215,30014,31970,33508,35083,39168
+   Steel erectors,5311,x,30376,,32184,,x,x,x,x,x,x,x,x,x,x
+   Stonemasons and related trades,5312,x,29266,,29672,,x,x,x,x,x,x,x,x,x,x
+   Bricklayers ,5313,8,28560,,29058,,x,x,24946,25822,27277,30119,33372,x,x,x
+"   Roofers, roof tilers and slaters",5314,11,24331,,24996,,x,18578,20178,20636,23070,24911,26934,x,x,x
+   Plumbers & heating and ventilating installers and repairers,5315,49,31725,,31900,,21181,x,26856,27857,29878,33923,35751,36713,38353,x
+   Carpenters and joiners,5316,57,27802,,27813,,x,21325,22207,23989,25833,29188,30734,31370,32259,x
+"   Glaziers, window fabricators and fitters",5317,18,23457,,24589,,17778,19128,19977,20757,21893,24731,26322,27981,x,x
+   Construction and building trades n.e.c.,5319,24,26400,,27949,,19313,21579,22401,23997,24904,28090,30372,32549,33364,x
+  Building Finishing Trades,532,31,25535,,26463,,18350,20652,21376,22407,24472,27024,28549,29849,31289,x
+   Plasterers,5321,x,27004,,27807,,x,x,x,25514,26642,29356,x,x,x,x
+   Floorers and wall tilers,5322,9,25511,,26431,,x,21391,23278,23886,24991,26974,28371,x,x,x
+   Painters and decorators,5323,16,24382,,26003,,x,20261,20590,21283,22378,26235,27715,29056,x,x
+  Construction and Building Trades Supervisors,533,51,37464,,39292,,26881,30615,31381,32341,35049,40000,42975,46182,48186,x
+   Construction and building trades supervisors,5330,51,37464,,39292,,26881,30615,31381,32341,35049,40000,42975,46182,48186,x
+" Textiles, printing and other skilled trades",54,256,21342,,22636,,15276,17381,18037,18707,20000,22887,24492,25704,27075,30878
+  Textiles and Garments Trades,541,15,21509,,23292,,15873,17227,18067,18869,19769,22888,24364,x,x,x
+   Upholsterers,5411,x,22688,,24941,,x,x,x,x,x,x,x,x,x,x
+   Footwear and leather working trades,5412,x,18467,,23104,,x,x,x,x,x,x,x,x,x,x
+   Tailors and dressmakers,5413,x,19434,,21684,,x,x,x,x,x,x,x,x,x,x
+"   Textiles, garments and related trades n.e.c.",5419,x,20604,,22859,,x,x,18999,19278,19832,22672,x,x,x,x
+  Printing Trades,542,22,23928,,25129,,16371,18667,19222,20490,22055,25985,27072,28335,x,x
+   Pre-press technicians,5421,x,26203,,25990,,x,x,x,x,x,x,x,x,x,x
+   Printers,5422,11,25991,,27326,,x,19222,20513,22021,23945,27114,29116,x,x,x
+   Print finishing and binding workers,5423,8,21455,,22037,,x,x,18452,19156,20421,22534,24264,x,x,x
+  Food Preparation and Hospitality Trades,543,198,20795,,21754,,15037,16943,17815,18225,19378,22262,23752,24535,25806,29569
+   Butchers,5431,23,23739,,24870,,x,x,x,x,22190,25327,x,x,x,x
+   Bakers and flour confectioners,5432,13,20979,,22725,,x,18311,19065,19360,20253,22198,23436,24615,x,x
+   Fishmongers and poultry dressers,5433,x,20565,,21126,,x,x,x,x,x,x,x,x,x,x
+   Chefs,5434,104,20493,,21531,,14397,16287,17161,17923,19233,22135,23851,24545,26001,29949
+   Cooks,5435,20,18087,,18543,,13898,15324,15611,15903,17330,19022,20578,20853,x,x
+   Catering and bar managers,5436,34,21290,,21879,,15714,17984,18355,18729,20235,22515,23302,24086,24808,x
+  Other Skilled Trades,544,22,25606,,27773,,18677,20264,20577,21431,23470,28092,30447,32416,x,x
+"   Glass and ceramics makers, decorators and finishers",5441,x,24797,,24740,,x,x,x,x,x,x,x,x,x,x
+   Furniture makers and other craft woodworkers,5442,7,23870,,25472,,x,x,19627,20381,21155,26933,x,x,x,x
+   Florists,5443,..,,,,,,,,,,,,,,
+   Other skilled trades n.e.c.,5449,12,26673,,29879,,x,21140,22024,22814,25054,30107,32993,x,x,x
+"Caring, leisure and other service occupations",6,963,20617,,21691,,14060,16142,16948,17786,19251,22104,23952,24974,26197,30281
+ Caring personal service occupations,61,788,20378,,21283,,14039,15997,16796,17558,19010,21770,23521,24503,25728,29625
+  Teaching and Childcare Support Occupations,611,196,17184,,18110,,13213,14431,14893,15310,16295,18370,19704,20408,21384,23979
+   Early education and childcare assistants,6111,45,17653,,18300,,12578,14484,15058,15861,16715,18712,19877,20769,21862,x
+   Teaching assistants,6112,97,17146,,17894,,13527,14563,14973,15372,16212,18263,19497,20286,20976,x
+   Educational support assistants,6113,46,16600,,17595,,12833,14013,14489,14856,15652,17663,19035,19890,20400,x
+   Childminders,6114,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+   Nannies and au pairs,6116,x,24874,,27035,,x,x,x,22979,23833,25983,x,x,x,x
+   Playworkers,6117,x,x,,16880,,x,x,x,x,x,x,x,x,x,x
+  Animal Care and Control Services,612,18,20407,,20969,,13740,16716,17675,17972,19147,21776,23000,24045,25374,x
+   Pest control officers,6121,x,24943,,25094,,x,x,x,x,22693,25375,x,x,x,x
+   Animal care services occupations n.e.c.,6129,15,19862,,20070,,x,15895,16946,17760,18535,20743,22030,22582,x,x
+  Caring Personal Services,613,574,21444,,22378,,14606,17135,18045,18758,20148,22903,24692,25707,26930,30884
+   Nursing auxiliaries and assistants,6131,185,22357,,23391,,16162,18520,19339,19965,21183,23668,25176,25905,26979,30443
+   Ambulance staff (excluding paramedics),6132,17,26425,,28084,,19307,20403,21264,21718,23688,29065,31330,32239,34049,x
+   Dental nurses,6133,24,18579,,19829,,x,x,x,16890,17571,19489,20498,x,x,x
+   Houseparents and residential wardens,6134,8,25703,,27310,,x,18329,19517,20726,23832,27716,29231,x,x,x
+   Care workers and home carers,6135,267,20332,,21039,,13765,16025,16892,17686,19134,21812,23522,24495,25816,29739
+   Senior care workers,6136,61,22403,,23217,,x,18171,18709,19835,20967,24328,25777,26570,27703,x
+   Care escorts,6137,x,x,,20269,,x,x,x,x,x,x,x,x,x,x
+"   Undertakers, mortuary and crematorium assistants",6138,11,26628,,27515,,x,22063,22978,23507,25381,28394,30722,31404,x,x
+" Leisure, travel and related personal service occupations",62,158,21612,,23418,,13910,16519,17674,18483,19973,23458,25540,26771,28376,34472
+  Leisure and Travel Services,621,54,25594,,28204,,16337,18984,20036,21002,23263,27682,30835,33127,35921,x
+   Sports and leisure assistants,6211,16,21113,,22588,,15620,16889,18393,18834,20475,21913,23144,24030,x,x
+   Travel agents,6212,x,x,,26429,,x,17164,17604,18744,x,x,x,x,x,x
+   Air travel assistants,6213,6,23305,,24865,,x,x,18079,19088,21574,24867,x,x,x,x
+   Rail travel assistants,6214,19,33465,,35306,,25910,27588,28621,29572,32663,36500,40164,41846,43791,x
+   Leisure and travel service occupations n.e.c.,6219,x,23362,,25250,,x,x,x,x,20176,x,x,x,x,x
+  Hairdressers and Related Services,622,27,15422,,16031,,9359,12077,12778,13292,14326,16366,17589,18222,18827,x
+   Hairdressers and barbers,6221,19,15397,,15995,,8752,12375,12991,13281,14323,16246,17566,18120,x,x
+   Beauticians and related occupations,6222,8,15641,,16111,,x,11755,12083,13017,14296,16413,x,x,x,x
+  Housekeeping and Related Services,623,54,22030,,22851,,16910,18520,19118,19670,20585,23572,24835,25581,26633,x
+   Housekeepers and related occupations,6231,14,20486,,21949,,14513,17495,18192,19116,19836,22024,23729,24829,x,x
+   Caretakers,6232,40,22579,,23169,,17347,18686,19448,19817,21245,23967,25029,26120,27038,x
+  Cleaning and Housekeeping Managers and Supervisors,624,23,21529,,22196,,15557,17532,18162,18547,19963,22739,24010,25226,25893,x
+   Cleaning and housekeeping managers and supervisors,6240,23,21529,,22196,,15557,17532,18162,18547,19963,22739,24010,25226,25893,x
+  Bed and Breakfast and Guest House Owners and Proprietors ,625,..,,,,,,,,,,,,,,
+   Bed and breakfast and guest house owners and proprietors ,6250,..,,,,,,,,,,,,,,
+ Community and civil enforcement occupations,63,17,24361,,24609,,19134,20099,21285,21883,22931,25751,26883,27401,x,x
+  Community and Civil Enforcement Occupations,631,17,24361,,24609,,19134,20099,21285,21883,22931,25751,26883,27401,x,x
+   Police community support officers,6311,6,27640,,27148,,x,x,25620,25751,26016,28642,x,x,x,x
+   Parking and civil enforcement occupations,6312,10,22188,,23124,,x,19657,19846,20375,21366,23424,24071,24909,x,x
+Sales and customer service occupations,7,712,21009,,23618,,15052,17324,17981,18517,19718,22669,24878,26135,28074,33862
+ Sales occupations,71,454,20091,,23016,,14460,16473,17318,17876,18906,21528,23445,24888,26686,32769
+  Sales Assistants and Retail Cashiers,711,371,19431,,21526,,14086,16018,16813,17465,18361,20775,22367,23601,25099,31035
+   Sales and retail assistants,7111,311,19433,,21669,,13871,15856,16618,17372,18352,20916,22596,23951,25552,32005
+   Retail cashiers and check-out operators,7112,15,18580,,19118,,14885,15952,16538,17426,17878,19440,20265,20838,21435,x
+   Telephone salespersons,7113,7,21431,,23027,,x,16514,17404,18106,18839,24053,26292,x,x,x
+   Pharmacy and optical dispensing assistants,7114,26,18353,,18648,,15258,16591,16995,17406,17940,19157,19608,19874,20020,x
+   Vehicle and parts salespersons and advisers,7115,12,23835,,26436,,18471,20844,21120,21713,22688,25359,26329,x,x,x
+  Sales Related Occupations,712,28,22473,,25324,,16654,18912,19778,20484,21302,23843,25706,27286,28311,x
+   Collector salespersons and credit agents,7121,x,19376,,20881,,x,x,x,x,x,x,x,x,x,x
+"   Debt, rent and other cash collectors",7122,11,21693,,22349,,15983,17738,18300,19490,20664,22475,23049,23910,x,x
+   Roundspersons and van salespersons,7123,x,21506,,23508,,x,x,x,x,21231,23481,x,x,x,x
+   Market and street traders and assistants,7124,..,,,,,,,,,,,,,,
+   Visual merchandisers and related occupations,7125,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+   Sales related occupations n.e.c.,7129,12,24363,,28386,,18792,20044,20561,20899,22385,26224,28470,30193,x,x
+  Shopkeepers and Sales Supervisors,713,55,24578,,31843,,17936,19685,20238,20874,22341,26660,28923,30580,32799,x
+   Shopkeepers and owners - retail and wholesale,7131,5,x,,x,,x,x,x,29617,33170,x,x,x,x,x
+   Sales supervisors - retail and wholesale ,7132,50,23643,,26115,,17778,19601,20053,20610,21856,25637,27988,29171,30823,x
+ Customer service occupations,72,258,22944,,24677,,16891,18817,19343,19977,21258,24635,26598,28000,29872,34993
+  Customer Service Occupations,721,238,22504,,24176,,16531,18645,19133,19736,20919,24131,25964,27254,28984,34122
+   Call and contact centre occupations,7211,27,20559,,22332,,17333,18199,18626,19019,19681,21957,23693,24443,25215,x
+   Telephonists,7212,9,26655,,27611,,x,22444,22788,24101,25436,28957,30640,32066,x,x
+   Communication operators,7213,6,26953,,27374,,x,18790,21235,22579,24598,28784,30957,x,x,x
+   Market research interviewers,7214,..,,,,,,,,,,,,,,
+   Customer service occupations n.e.c.,7219,196,22453,,24173,,16441,18646,19161,19754,20907,24057,25931,27192,28911,33926
+  Customer Service Supervisors,722,21,28574,,30459,,20109,23139,24324,24852,26762,30603,33266,34215,35573,x
+   Customer service supervisors,7220,21,28574,,30459,,20109,23139,24324,24852,26762,30603,33266,34215,35573,x
+"Process, plant and machine operatives",8,1050,25629,,28049,,17615,19776,20734,21673,23559,28233,31342,32930,34794,40568
+" Process, plant and machine operatives",81,504,23858,,25961,,16968,18810,19684,20425,22117,25991,29097,30666,32524,37684
+  Process Operatives,811,156,22473,,24208,,16529,18246,18899,19600,20863,24146,26138,27661,29933,34691
+"   Food, drink and tobacco process operatives",8111,99,21271,,22670,,16021,17579,18384,19034,20180,22724,24416,25525,26975,x
+   Textile process operatives,8112,7,24144,,25011,,x,17985,18502,18806,21413,26225,28293,x,x,x
+   Chemical and related process operatives,8113,15,27473,,29576,,18441,20747,22282,23003,24497,29492,32453,34218,x,x
+   Plastics process operatives,8114,8,22277,,24110,,x,18167,18599,19730,21155,23054,25145,x,x,x
+   Metal making and treating process operatives,8115,16,25985,,27036,,18353,20129,21089,22175,24180,28913,31633,32438,35067,x
+   Process operatives n.e.c.,8119,11,23259,,26235,,16727,19032,19961,20578,22665,25752,28104,x,x,x
+  Metal Working Machine Operatives,812,14,23629,,24356,,x,18793,19201,20310,21442,25321,26718,28396,x,x
+   Metal working machine operatives ,8120,14,23629,,24356,,x,18793,19201,20310,21442,25321,26718,28396,x,x
+  Plant and Machine Operatives,813,45,25004,,27175,,18146,20020,20682,21499,23203,27596,30673,32567,33797,x
+   Paper and wood machine operatives,8131,12,23222,,25518,,x,19823,20050,20532,22039,24617,26786,28023,x,x
+   Mining and quarry workers and related operatives,8132,x,30263,,32558,,x,x,x,x,27710,35099,x,x,x,x
+   Energy plant operatives,8133,x,x,,35062,,x,x,x,x,x,x,x,x,x,x
+   Water and sewerage plant operatives,8134,6,29040,,28710,,x,20953,21694,24257,26182,30742,32787,x,x,x
+   Printing machine assistants,8135,10,23082,,24836,,x,19021,19638,20062,21322,24597,28844,29965,x,x
+   Plant and machine operatives n.e.c.,8139,8,23896,,24259,,x,19711,20268,20839,22229,24771,25743,x,x,x
+  Assemblers and Routine Operatives,814,173,22872,,24453,,16796,18213,18953,19743,21187,24739,27292,28809,30159,34755
+   Assemblers (electrical and electronic products),8141,20,21139,,22455,,16152,17536,18487,19416,19947,22453,24364,26284,28383,x
+   Assemblers (vehicles and metal goods),8142,23,26243,,27841,,17278,19628,20772,21343,24255,29343,31863,33750,35337,x
+   Routine inspectors and testers,8143,30,26375,,27638,,17639,19843,20647,21896,23568,28696,30754,32571,34004,x
+"   Weighers, graders and sorters",8144,x,25643,,27480,,x,x,x,x,24618,27083,x,x,x,x
+"   Tyre, exhaust and windscreen fitters",8145,15,22699,,23439,,16809,18062,18479,19173,21310,24768,25640,26368,x,x
+   Sewing machinists,8146,10,18486,,19289,,x,15572,15901,16472,17617,19703,20749,21040,x,x
+   Assemblers and routine operatives n.e.c.,8149,73,22372,,23412,,16874,17998,18470,19229,20982,23712,25708,27075,28538,x
+  Construction Operatives,815,95,28536,,29773,,18293,21127,22358,23470,25743,31273,33537,35012,37241,42609
+"   Scaffolders, stagers and riggers",8151,11,33206,,33639,,x,23640,25441,27159,31246,35391,39328,40936,x,x
+   Road construction operatives,8152,16,30810,,31892,,22023,24409,25549,26121,28207,33134,33897,35424,37885,x
+   Rail construction and maintenance operatives,8153,10,35694,,36460,,x,27614,29683,31380,33500,37833,39930,41460,x,x
+   Construction operatives n.e.c.,8159,58,25622,,27354,,17482,19809,20693,21554,23514,28420,30664,32274,33781,x
+"  Production, Factory and Assembly Supervisors ",816,21,29468,,32631,,18060,21811,22964,23867,25448,33352,36809,38697,x,x
+"   Production, factory and assembly supervisors",8160,21,29468,,32631,,18060,21811,22964,23867,25448,33352,36809,38697,x,x
+ Transport and mobile machine drivers and operatives,82,546,27456,,29975,,18616,20905,22126,23073,25074,30212,33098,34808,36502,43597
+  Road Transport Drivers,821,437,26248,,27508,,18154,20536,21525,22514,24335,28651,31644,32895,34437,38571
+   Large goods vehicle drivers,8211,169,30838,,31043,,21728,24644,25664,26550,28903,32829,34879,36021,37364,40396
+   Bus and coach drivers,8212,78,25141,,26344,,19376,21381,22180,22637,23710,26995,28771,30000,31787,34727
+   Taxi and cab drivers and chauffeurs,8213,x,21341,,23027,,x,x,x,18115,20089,x,x,x,x,x
+   Delivery drivers and couriers,8214,53,21639,,22472,,15560,17714,18308,18908,20090,23257,24620,25422,26924,x
+   Driving instructors,8215,x,x,,33545,,x,x,x,x,x,x,x,x,x,x
+   Road transport drivers n.e.c.,8219,132,23615,,25731,,17001,18929,19739,20447,22128,25722,28380,29950,32194,37679
+  Mobile Machine Drivers and Operatives,822,58,28761,,30398,,19689,21949,23153,24075,26088,31025,33144,34824,36225,x
+   Crane drivers,8221,x,36570,,41065,,x,x,x,31900,34968,41018,x,x,x,x
+   Fork-lift truck drivers,8222,20,25204,,25874,,19295,20875,21846,22658,23553,26271,27956,29857,30963,x
+   Mobile machine drivers and operatives n.e.c.,8229,34,30473,,31734,,20022,22811,24368,25488,28304,32390,35518,36299,38597,x
+  Other Drivers and Transport Operatives,823,50,52370,,50919,,24946,32954,35617,38942,48025,57505,59542,61156,64547,x
+   Train and tram drivers,8231,28,59181,,57389,,31792,49030,51242,51640,56753,59768,62261,65563,70219,x
+   Marine and waterways transport operatives,8232,x,31253,,33298,,x,x,x,x,x,x,x,x,x,x
+   Air transport operatives,8233,x,23840,,26116,,x,x,x,x,22156,26447,x,x,x,x
+   Rail transport operatives,8234,12,48405,,51465,,29807,36544,38654,40537,45468,52478,56425,59717,x,x
+   Other drivers and transport operatives n.e.c.,8239,x,x,,40747,,x,x,x,x,x,x,x,x,x,x
+Elementary occupations,9,1107,21688,,23095,,14944,17267,18061,18772,20159,23598,25634,26820,28358,33031
+ Elementary trades and related occupations,91,217,21995,,23504,,16419,18000,18649,19327,20593,23604,25585,26759,28415,32721
+  Elementary Agricultural Occupations,911,41,22946,,23588,,x,18213,18949,19767,21391,24246,26094,27071,28899,x
+   Farm workers,9111,27,23865,,24338,,x,x,19759,20458,22104,25519,27150,x,x,x
+   Forestry and related workers,9112,x,21758,,23718,,x,x,x,x,x,x,x,x,x,x
+   Fishing and other elementary agriculture occupations n.e.c.,9119,12,21351,,21820,,x,17366,17815,18182,19124,22361,23783,24614,x,x
+  Elementary Construction Occupations,912,52,23313,,25238,,17153,19052,19752,20439,21757,25357,27877,29041,30393,x
+   Groundworkers,9121,12,29926,,30342,,x,22604,23914,25092,26910,31623,33574,34193,x,x
+   Elementary construction occupations n.e.c.,9129,40,21952,,23711,,16702,18392,19057,19660,20745,23643,25619,26976,28265,x
+  Elementary Process Plant Occupations,913,124,21375,,22744,,15984,17586,18187,18784,19927,22643,24494,25659,26901,31087
+   Industrial cleaning process occupations,9131,13,21319,,22598,,16625,18094,18839,19521,20308,22395,23676,24263,x,x
+"   Packers, bottlers, canners and fillers",9132,66,20453,,21836,,15832,17352,17915,18533,19374,21778,23353,24547,25714,x
+   Elementary process plant occupations n.e.c.,9139,44,22420,,24151,,15950,17801,18411,19422,21445,24231,26489,27339,29399,x
+ Elementary administration and service occupations,92,890,21595,,22995,,14561,17013,17938,18602,20056,23593,25635,26838,28350,33104
+  Elementary Administration Occupations,921,126,26882,,27586,,19560,22896,24140,24670,25657,28222,29795,30838,32070,36192
+"   Postal workers, mail sorters and messengers",9211,112,27342,,28515,,21627,24443,24784,25346,26301,28665,30251,31270,32559,37220
+   Elementary administration occupations n.e.c.,9219,14,18623,,20030,,x,14493,15544,15854,17553,19447,20658,21419,x,x
+  Elementary Cleaning Occupations,922,136,19350,,19883,,13950,15772,16423,17415,18375,20256,21516,22216,23108,x
+   Window cleaners,9221,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+   Street cleaners,9222,x,20811,,21404,,x,x,x,19694,19868,21709,x,x,x,x
+   Cleaners and domestics,9223,92,18547,,19365,,x,15192,15757,16287,17890,19777,21153,21921,22967,x
+"   Launderers, dry cleaners and pressers",9224,8,17322,,18062,,x,15297,15870,16194,16636,18014,18705,x,x,x
+   Refuse and salvage occupations,9225,21,21110,,22252,,18021,19336,19525,19873,20622,21902,23228,23692,24611,x
+   Vehicle valeters and cleaners,9226,8,18983,,19709,,x,17465,17704,17908,18588,19994,21123,x,x,x
+   Elementary cleaning occupations n.e.c.,9229,x,19358,,21001,,x,x,x,x,x,x,x,x,x,x
+  Elementary Security Occupations,923,79,25444,,26191,,17563,19830,20701,21375,23280,27650,29318,30208,31630,34973
+   Security guards and related occupations,9231,77,25678,,26630,,17990,20097,20906,21686,23909,27748,29436,30340,31844,34998
+   School midday and crossing patrol occupations,9232,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+   Exam invigilators,9233,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+  Elementary Sales Occupations,924,13,18685,,20882,,15643,17222,17607,17737,18189,20068,21966,22272,x,x
+   Shelf fillers,9241,11,18346,,20446,,x,17029,17335,17669,18000,18914,21432,22152,x,x
+   Elementary sales occupations n.e.c.,9249,x,21543,,23730,,x,x,x,x,x,x,x,x,x,x
+  Elementary Storage Occupations,925,388,22611,,24409,,16784,18704,19326,19968,21237,24321,26305,27675,29451,35449
+   Elementary storage supervisors,9251,27,26010,,27094,,18758,20897,21879,23389,24669,27899,29109,29998,32071,x
+   Warehouse operatives,9252,341,22262,,24088,,16673,18496,19180,19819,21051,23917,25816,26967,28760,35063
+   Delivery operatives,9253,14,22979,,24640,,15643,18264,18850,19339,20869,24808,26769,29595,x,x
+   Elementary storage occupations n.e.c.,9259,7,28960,,29780,,x,21000,22329,23120,25627,30852,x,x,x,x
+  Other Elementary Services Occupations,926,149,16334,,16765,,11241,13259,13860,14472,15543,17392,18483,19301,20093,x
+   Bar and catering supervisors,9261,15,18143,,18008,,x,14694,15503,16061,16816,18740,19807,20472,20984,x
+   Hospital porters,9262,x,20429,,22526,,x,x,x,x,x,x,x,x,x,x
+   Kitchen and catering assistants,9263,75,16246,,16593,,10681,13173,13828,14280,15553,17327,18553,x,x,x
+   Waiters and waitresses,9264,29,16097,,16108,,11414,12476,13294,13900,15079,17042,17950,18392,19271,x
+   Bar staff,9265,16,14981,,16283,,x,11629,12699,13132,14341,15839,17132,17698,x,x
+   Coffee shop workers,9266,x,15466,,15658,,x,x,x,13848,14908,16125,16465,x,x,x
+   Leisure and theme park attendants,9267,x,16298,,17712,,x,x,x,x,14883,17111,x,x,x,x
+   Other elementary services occupations n.e.c.,9269,x,18861,,19840,,x,x,x,16544,17994,20195,x,x,x,x
+Not Classified,,:,,,,,,,,,,,,,,

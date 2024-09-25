@@ -1,0 +1,116 @@
+﻿Description,Code,Jobs,Median,Change,Mean,Change,10,20,25,30,40,60,70,75,80,90
+ALL EMPLOYEES,,"25,910",13.71,3.3,17.63,2.1,8.72,9.50,9.98,10.51,11.92,15.95,18.99,20.64,22.76,29.71
+All Industries and Services,,"25,906",13.71,3.2,17.63,2.1,8.72,9.50,9.98,10.51,11.92,15.95,18.99,20.64,22.76,29.70
+All Index of Production Industries,,"2,871",14.50,0.0,17.40,1.2,8.77,10.00,10.62,11.30,12.83,16.51,19.07,20.54,22.42,28.78
+All Manufacturing,,"2,491",14.20,0.3,17.06,1.4,8.72,9.86,10.42,11.07,12.55,16.08,18.61,20.06,21.85,27.99
+All Service Industries,,"21,896",13.60,4.4,17.74,2.6,8.72,9.45,9.90,10.39,11.75,15.93,19.10,20.77,22.87,29.90
+"AGRICULTURE, FORESTRY AND FISHING ",A ,173,10.50,4.8,12.23,2.0,8.20,8.80,9.00,9.23,9.90,11.41,12.53,13.49,14.89,18.22
+"Crop and animal production, hunting and related service activities ",1,155,10.22,2.4,11.81,2.5,7.88,8.72,8.90,9.10,9.73,11.00,12.08,12.75,13.89,17.10
+Forestry and logging ,2,11,13.56,1.2,15.38,-2.4,x,10.49,11.17,11.50,13.14,15.32,x,x,x,x
+Fishing and aquaculture ,3,7,13.57,10.7,17.17,3.6,x,10.41,10.69,11.02,11.84,15.29,x,x,x,x
+MINING AND QUARRYING ,B ,36,19.50,6.6,23.58,6.2,10.31,12.90,13.37,14.14,16.69,21.87,24.54,x,x,x
+Mining of coal and lignite ,5,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Extraction of crude petroleum and natural gas ,6,x,42.66,,46.71,18.2,x,x,37.19,39.11,41.69,47.37,x,x,x,x
+Mining of metal ores ,7,:,,,,,,,,,,,,,,
+Other mining and quarrying ,8,22,15.52,5.8,17.19,2.8,9.72,10.82,11.38,12.76,13.38,16.92,19.67,20.50,x,x
+Mining support service activities ,9,8,22.06,12.3,27.12,6.8,x,17.24,18.87,19.33,20.87,23.37,x,x,x,x
+MANUFACTURING ,C ,"2,491",14.20,0.3,17.06,1.4,8.72,9.86,10.42,11.07,12.55,16.08,18.61,20.06,21.85,27.99
+Manufacture of food products ,10,374,11.56,4.8,14.51,5.6,8.72,9.15,9.47,9.84,10.55,12.84,14.60,15.99,17.73,23.47
+Manufacture of beverages ,11,50,16.61,2.2,19.38,4.8,9.77,11.11,11.66,12.94,14.58,18.65,20.99,21.70,22.62,x
+Manufacture of tobacco products ,12,:,,,,,,,,,,,,,,
+Manufacture of textiles ,13,47,10.43,-0.7,12.59,-7.3,7.11,7.99,8.66,8.72,9.61,11.35,12.70,13.58,14.45,x
+Manufacture of wearing apparel ,14,17,8.81,0.0,11.38,-0.6,6.72,7.48,8.21,x,8.72,9.96,11.01,x,x,x
+Manufacture of leather and related products ,15,8,10.19,0.3,11.80,0.8,x,8.49,8.72,8.74,9.62,10.64,x,x,x,x
+"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials ",16,50,11.08,-6.9,12.50,-8.7,7.52,8.80,9.17,9.50,10.14,12.12,13.46,14.37,14.89,x
+Manufacture of paper and paper products ,17,57,15.11,3.7,16.90,-2.3,9.39,10.83,11.33,11.98,13.31,16.50,18.49,20.20,21.14,x
+Printing and reproduction of recorded media ,18,82,12.36,-3.1,14.53,-4.7,8.06,9.00,9.54,10.00,11.36,13.63,14.86,15.96,17.93,x
+Manufacture of coke and refined petroleum products ,19,15,25.06,0.4,25.03,-3.1,10.75,15.65,19.25,21.67,23.53,27.55,29.27,30.03,x,x
+Manufacture of chemicals and chemical products ,20,103,17.08,1.0,19.31,-0.7,9.54,11.20,11.91,12.60,15.02,19.53,22.03,23.92,26.50,x
+Manufacture of basic pharmaceutical products and pharmaceutical preparations ,21,53,16.95,-4.4,21.06,-8.0,10.72,12.21,13.24,13.74,15.54,18.78,22.00,23.83,27.95,x
+Manufacture of rubber and plastic products ,22,167,12.25,-0.9,15.23,0.0,8.20,9.09,9.50,10.00,10.90,13.71,15.63,16.99,18.58,23.86
+Manufacture of other non-metallic mineral products ,23,84,13.51,-1.4,15.59,-0.9,8.77,9.92,10.38,10.83,11.94,15.17,17.64,18.43,20.36,x
+Manufacture of basic metals ,24,76,17.53,5.8,19.27,7.6,10.34,12.56,13.17,14.31,15.89,19.25,21.86,23.16,25.34,x
+"Manufacture of fabricated metal products, except machinery and equipment ",25,300,12.92,-4.9,14.93,-5.7,8.70,9.57,10.09,10.56,11.77,14.29,15.90,17.14,18.58,23.16
+"Manufacture of computer, electronic and optical products ",26,136,16.82,-4.1,x,,9.40,11.28,12.25,12.96,14.49,19.64,22.62,24.38,26.77,34.31
+Manufacture of electrical equipment ,27,79,13.28,-1.8,15.35,-1.3,8.74,9.83,10.27,10.78,12.03,14.61,16.62,18.71,20.62,x
+Manufacture of machinery and equipment n.e.c. ,28,224,16.18,-0.4,18.66,-0.1,9.59,11.40,12.24,13.15,14.74,18.04,20.39,21.85,23.90,29.69
+"Manufacture of motor vehicles, trailers and semi-trailers ",29,143,15.78,0.3,17.84,0.7,9.04,11.12,11.78,13.00,14.55,17.60,19.98,21.55,23.92,29.00
+Manufacture of other transport equipment ,30,206,20.06,-1.1,21.38,-1.2,12.36,14.73,15.72,16.63,18.45,21.77,24.10,25.16,27.24,32.07
+Manufacture of furniture ,31,73,10.36,-8.9,12.09,-9.4,7.32,8.08,8.51,8.77,9.59,11.38,12.70,13.67,14.98,x
+Other manufacturing ,32,70,13.26,1.2,15.56,-0.8,8.64,9.41,10.00,10.30,11.59,14.59,17.25,18.84,20.13,x
+Repair and installation of machinery and equipment ,33,79,15.53,-3.5,17.60,-7.1,8.74,10.25,11.14,11.98,13.42,16.97,19.42,21.65,23.60,x
+"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY ",D ,146,20.15,2.6,22.59,2.8,11.46,14.27,14.77,16.19,18.23,22.26,25.24,27.74,29.93,34.55
+"Electricity, gas, steam and air conditioning supply ",35,146,20.15,2.6,22.59,2.8,11.46,14.27,14.77,16.19,18.23,22.26,25.24,27.74,29.93,34.55
+"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES ",E ,198,14.36,-3.7,16.80,0.7,9.06,10.47,10.95,11.51,12.85,16.42,18.70,19.72,21.39,27.22
+"Water collection, treatment and supply ",36,88,17.31,0.9,19.04,1.8,10.52,12.41,13.10,14.01,15.55,18.97,20.55,22.12,23.30,x
+Sewerage ,37,10,11.97,-4.2,12.87,-5.6,x,9.26,9.92,10.59,11.11,13.01,14.01,x,x,x
+"Waste collection, treatment and disposal activities; materials recovery ",38,96,12.45,-3.1,15.28,-2.6,8.70,9.77,10.08,10.54,11.41,13.75,16.14,17.54,19.23,x
+Remediation activities and other waste management services ,39,x,x,,17.03,9.3,x,x,x,x,12.40,x,x,x,x,x
+CONSTRUCTION ,F ,967,14.29,-3.5,17.15,-2.6,8.72,10.00,10.72,11.50,12.85,15.80,18.29,20.00,22.31,29.12
+Construction of buildings ,41,320,15.46,-2.8,19.41,-3.1,9.19,10.61,11.53,12.35,13.81,17.82,21.73,23.80,25.93,34.50
+Civil engineering ,42,147,15.68,-0.1,18.51,1.2,9.67,11.34,12.02,12.81,14.00,18.02,20.36,22.14,23.98,30.81
+Specialised construction activities ,43,499,13.28,-4.9,15.27,-2.2,8.33,9.55,10.00,10.62,12.00,14.50,16.37,17.51,19.13,24.52
+WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES ,G,"3,663",10.32,1.2,14.02,-0.8,8.17,8.81,9.00,9.20,9.68,11.50,13.20,14.40,16.02,22.88
+Wholesale and retail trade and repair of motor vehicles and motorcycles ,45,473,11.08,-3.7,12.84,-6.0,7.26,8.52,8.79,9.14,10.00,12.05,13.41,14.14,15.06,19.33
+"Wholesale trade, except of motor vehicles and motorcycles ",46,"1,063",12.80,-3.4,16.61,-2.5,8.62,9.35,9.89,10.34,11.50,14.62,17.24,19.17,21.66,30.59
+"Retail trade, except of motor vehicles and motorcycles ",47,"2,128",9.69,4.2,12.68,2.1,8.14,8.75,8.97,9.05,9.31,10.22,11.22,12.22,13.50,18.99
+TRANSPORTATION AND STORAGE ,H ,924,13.46,1.0,16.76,3.6,8.80,10.00,10.46,11.07,12.27,15.32,18.05,19.83,22.69,30.13
+Land transport and transport via pipelines ,49,500,12.99,1.5,16.13,5.4,8.80,9.96,10.38,10.92,11.99,14.73,17.12,18.75,21.33,30.13
+Water transport ,50,12,14.77,-12.1,19.86,-7.2,x,10.59,11.39,11.60,13.25,x,x,x,x,x
+Air transport ,51,18,15.23,-6.3,21.91,-4.1,10.22,11.02,11.25,11.89,13.02,18.34,x,x,x,x
+Warehousing and support activities for transportation ,52,324,14.61,-1.8,17.89,0.2,8.72,10.00,10.68,11.50,12.93,16.99,19.79,21.59,24.05,31.34
+Postal and courier activities ,53,70,12.38,-4.5,14.45,-0.8,8.75,9.67,10.10,10.64,11.97,12.98,14.08,14.88,15.58,x
+ACCOMMODATION AND FOOD SERVICE ACTIVITIES ,I ,"1,077",8.72,0.9,10.63,-1.4,6.25,6.92,7.20,7.67,8.31,9.00,9.65,10.06,10.88,14.24
+Accommodation ,55,287,9.00,-0.8,11.00,-4.8,6.58,7.31,7.78,8.19,8.72,9.66,10.61,11.40,12.27,15.49
+Food and beverage service activities ,56,791,8.72,2.5,10.46,-0.6,6.13,6.72,7.00,7.41,8.21,8.79,9.34,9.82,10.31,13.31
+INFORMATION AND COMMUNICATION ,J ,"1,031",20.44,6.4,24.30,5.7,10.54,13.13,14.35,15.37,17.84,23.27,26.73,29.18,31.94,41.91
+Publishing activities ,58,88,16.73,-4.8,22.07,4.8,9.64,11.87,12.88,13.68,14.97,19.60,22.48,24.64,27.15,x
+"Motion picture, video and television programme production, sound recording and music publishing activities ",59,53,16.72,15.0,20.51,5.4,9.32,11.38,11.94,12.92,14.55,19.15,23.79,25.86,27.87,x
+Programming and broadcasting activities ,60,48,24.59,8.1,27.60,-11.3,15.35,17.76,19.48,20.50,22.76,26.34,28.87,30.68,32.83,x
+Telecommunications ,61,211,20.74,13.0,23.15,10.2,11.17,13.28,14.62,15.96,17.95,22.68,25.72,27.61,30.08,37.16
+"Computer programming, consultancy and related activities ",62,578,20.70,0.0,25.04,3.2,10.53,13.29,14.70,15.64,17.97,24.00,27.98,30.63,33.64,43.43
+Information service activities ,63,54,20.18,7.2,25.24,8.7,9.67,12.04,13.23,13.86,17.67,22.82,27.58,30.26,37.68,x
+FINANCIAL AND INSURANCE ACTIVITIES ,K ,"1,010",20.38,-0.5,28.18,-1.0,10.67,12.47,13.50,14.46,17.22,24.55,30.49,34.42,38.53,51.84
+"Financial service activities, except insurance and pension funding ",64,550,21.34,-3.7,29.31,-5.0,10.96,12.78,13.83,15.00,18.17,26.26,32.19,36.43,40.24,52.24
+"Insurance, reinsurance and pension funding, except compulsory social security ",65,123,20.08,6.5,24.92,3.3,10.56,12.01,12.97,14.06,17.43,23.71,28.40,30.48,34.45,x
+Activities auxiliary to financial services and insurance activities ,66,337,19.36,-1.3,27.53,1.3,10.29,12.20,13.10,14.01,16.10,23.00,28.55,33.51,37.33,51.98
+REAL ESTATE ACTIVITIES ,L ,380,14.12,2.2,17.61,3.4,9.03,10.24,10.94,11.59,12.78,15.70,17.84,19.25,21.73,29.98
+Real estate activities ,68,380,14.12,2.2,17.61,3.4,9.03,10.24,10.94,11.59,12.78,15.70,17.84,19.25,21.73,29.98
+"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES ",M ,"1,865",17.37,-1.5,22.17,-0.6,9.49,11.11,12.07,13.08,15.09,20.29,23.87,26.13,28.86,39.36
+Legal and accounting activities ,69,652,17.34,-1.0,23.47,2.0,9.31,10.95,11.88,12.76,15.02,20.79,25.39,27.52,31.75,43.77
+Activities of head offices; management consultancy activities ,70,350,19.10,7.0,24.52,4.4,9.94,11.50,12.45,13.42,15.90,21.89,25.90,28.62,32.64,43.67
+Architectural and engineering activities; technical testing and analysis ,71,433,17.37,-5.6,20.60,-4.2,9.97,11.85,12.78,13.80,15.36,19.86,22.53,24.78,27.49,34.53
+Scientific research and development ,72,145,20.67,1.0,24.06,0.2,11.89,14.42,15.33,16.54,18.86,22.89,25.61,27.42,30.67,x
+Advertising and market research ,73,101,15.33,-8.5,19.28,-15.6,9.19,10.22,10.74,11.52,13.29,16.87,19.99,21.50,23.60,x
+"Other professional, scientific and technical activities ",74,128,14.97,-1.9,18.21,-5.4,8.72,10.03,10.88,11.61,13.14,17.04,19.71,21.63,23.96,x
+Veterinary activities ,75,55,11.83,-3.1,13.77,-8.4,7.05,8.40,8.73,8.99,9.94,13.43,15.35,16.58,19.21,x
+ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES ,N ,"1,470",11.36,5.2,14.88,3.1,8.56,8.85,9.13,9.44,10.30,12.95,15.01,16.43,18.40,25.38
+Rental and leasing activities ,77,135,12.47,-2.1,15.11,-4.6,8.30,9.29,9.80,10.32,11.23,13.86,15.78,17.16,19.31,x
+Employment activities ,78,411,11.94,10.0,14.57,6.8,8.72,9.16,9.45,9.80,10.65,13.36,15.36,16.85,18.85,26.03
+"Travel agency, tour operator and other reservation service and related activities ",79,68,11.45,-17.5,14.48,-17.4,8.16,x,8.93,8.96,9.77,13.35,15.33,15.99,19.29,x
+Security and investigation activities ,80,86,11.07,10.4,13.17,9.4,8.71,9.00,9.23,9.59,10.29,12.07,13.08,13.73,15.29,x
+Services to buildings and landscape activities ,81,402,9.96,7.9,12.40,0.5,7.34,8.72,8.72,8.76,9.21,10.75,12.09,13.24,14.62,18.99
+"Office administrative, office support and other business support activities ",82,368,13.05,2.7,18.00,2.5,8.72,9.30,9.64,10.12,11.39,15.26,18.14,19.84,22.22,32.45
+PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY ,O ,"1,427",16.19,0.4,18.01,1.6,10.47,11.82,12.66,13.32,14.57,18.28,20.04,20.99,22.19,26.74
+Public administration and defence; compulsory social security ,84,"1,427",16.19,0.4,18.01,1.6,10.47,11.82,12.66,13.32,14.57,18.28,20.04,20.99,22.19,26.74
+EDUCATION ,P ,"3,953",16.04,2.3,18.73,2.0,9.38,10.20,10.79,11.41,13.55,18.95,22.13,23.53,25.07,30.19
+Education ,85,"3,953",16.04,2.3,18.73,2.0,9.38,10.20,10.79,11.41,13.55,18.95,22.13,23.53,25.07,30.19
+HUMAN HEALTH AND SOCIAL WORK ACTIVITIES ,Q ,"4,007",13.73,2.9,16.65,1.5,8.98,9.76,10.12,10.78,12.05,16.03,18.45,19.71,21.23,26.04
+Human health activities ,86,"2,591",16.21,2.2,18.86,1.0,9.89,10.96,11.75,12.55,14.37,18.40,20.30,21.63,23.00,28.27
+Residential care activities ,87,693,10.14,9.0,12.44,6.9,8.72,8.94,9.08,9.25,9.62,10.97,12.33,13.28,14.87,19.16
+Social work activities without accommodation ,88,723,10.73,3.0,12.70,-1.3,7.76,8.78,9.00,9.25,9.86,11.86,13.26,14.22,15.59,19.72
+"ARTS, ENTERTAINMENT AND RECREATION ",R,517,11.11,5.3,16.11,4.0,7.00,8.47,8.74,9.19,10.00,12.61,14.51,15.89,17.69,23.33
+"Creative, arts and entertainment activities ",90,60,14.30,1.7,17.90,-14.9,8.69,9.78,10.59,11.38,12.68,17.05,19.15,20.00,21.35,x
+"Libraries, archives, museums and other cultural activities ",91,72,12.88,1.6,15.24,1.3,8.64,9.31,9.94,10.48,11.50,14.10,15.62,16.85,18.38,x
+Gambling and betting activities ,92,48,10.41,7.8,13.35,6.2,8.21,8.99,9.30,9.48,9.82,11.25,12.22,12.91,x,x
+Sports activities and amusement and recreation activities ,93,337,10.30,2.1,16.47,6.9,6.62,7.85,8.36,8.73,9.47,11.82,13.65,14.90,16.43,22.85
+OTHER SERVICE ACTIVITIES ,S ,485,11.97,3.9,14.99,0.7,7.35,8.72,8.97,9.34,10.44,13.33,15.30,16.74,18.94,25.04
+Activities of membership organisations ,94,239,13.53,2.0,17.44,2.1,8.79,9.85,10.36,10.99,12.33,15.12,18.12,19.68,21.40,27.36
+Repair of computers and personal and household goods ,95,37,14.29,-4.8,16.36,-7.4,8.21,9.24,10.38,11.26,12.51,15.78,17.22,18.46,x,x
+Other personal service activities ,96,209,9.55,-0.1,12.12,0.2,6.61,7.50,8.19,8.41,8.81,10.50,12.05,13.03,14.25,19.54
+ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS-AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE ,T ,85,10.00,0.0,11.63,4.6,8.72,x,9.00,9.24,9.71,10.58,11.62,12.00,12.50,14.93
+Activities of households as employers of domestic personnel ,97,85,10.00,0.0,11.63,4.6,8.72,x,9.00,9.24,9.71,10.58,11.62,12.00,12.50,14.93
+Undifferentiated goods- and services-producing activities of private households for own use ,98,:,,,,,,,,,,,,,,
+ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES ,U ,x,15.66,-9.6,17.79,-3.6,x,x,x,x,x,x,x,x,x,x
+Activities of extraterritorial organisations and bodies ,99,x,15.66,-9.6,17.79,-3.6,x,x,x,x,x,x,x,x,x,x
+NOT CLASSIFIED,,x,x,,x,,x,x,x,x,x,x,x,x,x,x

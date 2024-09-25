@@ -1,0 +1,71 @@
+Level 4 SOC code,Include entire occupation as mathematics occupation?,Apportion needed?,% of category included,Final number of mathematical science occupations,Total number of jobs in SOC category
+1111 Senior officials in national government,N,Y,*,400,*
+1112 Directors & chief execs of major organisations,N,Y,5%,2800,60200
+1113 Senior officials in local government,N,Y,5%,1600,35100
+1121 Prod. works & maintenance managers,N,Y,5%,19300,413500
+1123 Managers in mining and energy,N,Y,*,12600,*
+1131 Financial managers & chartered secretaries,N,Y,5%,12100,259200
+1132 Marketing and sales managers,N,Y,5%,25600,549400
+1133 Purchasing managers,N,Y,5%,2300,50100
+1136 Information & communication technology managers,Y,N,na,309900,309900
+1137 Research and development managers,Y,N,na,51500,51500
+1141 Quality assurance managers,Y,N,na,46600,46600
+1151 Financial institution managers,N,Y,5%,7200,154100
+1181 Hospital and health service managers,Y,N,na,77000,77000
+2111 Chemists,Y,N,na,27600,27600
+2112 Bio scientists and biochemists,Y,N,na,94200,94200
+2113 Physicists & geologists & meteorologists,Y,N,na,26100,26100
+2121 Civil engineers,Y,N,na,78700,78700
+2122 Mechanical engineers,Y,N,na,78300,78300
+2123 Electrical engineers,Y,N,na,59800,59800
+2124 Electronics engineers,Y,N,na,35900,35900
+2125 Chemical engineers,Y,N,na,9500,9500
+2126 Design and development engineers,Y,N,na,63300,63300
+2127 Production and process engineers,Y,N,na,31200,31200
+2128 Planning and quality control engineers,Y,N,na,29200,29200
+2129 Engineering professionals not elsewhere classified,Y,N,na,97100,97100
+2131 IT strategy and planning professionals,Y,N,na,48900,148900
+2132 Software professionals,Y,N,na,327500,327500
+2211 Medical practitioners,N,Y,10%,24200,242900
+2212 Psychologists,N,Y,10%,3000,29900
+2213 Pharmacists & pharmacologists,Y,N,na,41800,41800
+2215 Dental practitioners,N,N,na,0,35700
+2311 Higher education teaching professionals,N,Y,10%,13200,132600
+2317 Registrars & senior administrators of educational establishments,N,Y,10%,4700,47200
+2321 Scientific researchers,Y,N,na,17100,17100
+2322 Social science researchers,Y,N,na,17100,17100
+2329 Researchers not elsewhere classified,Y,N,na,49100,49100
+2421 Chartered & certified accountants,N,Y,10%,15900,160000
+2422 Management accountants,Y,N,na,85700,85700
+2423 Management consultants & actuaries & economists & statisticians,Y,N,na,180400,180400
+2431 Architects,N,N,na,0,55400
+2432 Town planners,N,Y,10%,2000,20700
+2433 Quantity surveyors,N,N,0%,0,39700
+2434 Chartered surveyors (not quantity surveyors),N,N,na,0,63500
+2441 Public service administrative professionals,Y,N,na,34900,34900
+3111 Laboratory technicians,Y,N,na,64900,64900
+3112 Electrical & electronic technicians,Y,N,na,26500,26500
+3113 Engineering technicians,Y,N,na,73500,73500
+3114 Build & civil eng technicians,Y,N,na,25800,25800
+3115 Quality assurance technicians,Y,N,na,15700,15700
+3119 Science & engineering technicians not elsewhere classified,Y,N,na,38200,38200
+3131 IT operations technicians,N,N,na,0,117000
+3132 IT user support technicians,N,N,na,0,65400
+3211 Nurses,N,N,na,0,509300
+3212 Midwives,N,N,na,0,35100
+3213 Paramedics,N,N,na,0,20800
+3511 Air traffic controllers,Y,N,*,8900,*
+3512 Aircraft pilots and flight engineers,Y,N,na,22600,22600
+3513 Ship and hovercraft officers,N,N,na,0,15200
+3531 Estimators & valuers & assessors,N,N,na,0,55300
+3532 Brokers,N,Y,0%,0,50900
+3533 Insurance underwriters,Y,N,na,30100,30100
+3534 Fin. & invest. analyst & advisers,Y,N,na,173900,173900
+3535 Taxation experts,N,Y,4%,900,21500
+3537 Financial and accounting technicians,N,N,na,0,30800
+3568 Environmental health officers,Y,N,4%,11900,11900
+4121 Credit controllers,Y,N,4%,45600,45600
+4122 Accounts wages clerk & bookkeeper,N,N,na,0,512700
+5242 Telecommunications engineers,Y,N,na,42600,42600
+5245 Comp engineer & installation & maintenance,Y,N,na,43500,43500
+5249 Electrical & electronics engineer not elsewhere classified,Y,N,na,83500,83500
