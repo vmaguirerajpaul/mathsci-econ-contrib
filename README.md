@@ -1,1 +1,1 @@
-# acadmathsci-econ-contrib
+# mathsci-econ-contrib
