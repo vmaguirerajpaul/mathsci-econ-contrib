@@ -17,4 +17,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 ## Contact
 policyunit [at] AcadMathSci [dot] org [dot] uk
 ## Acknowledgements
-AcadMathSci's Policy Unit is grateful to Dr Daniel Herring, Prof.~Colin Turner, and the economics team at Public First for their independent review of the methodology and code underpinning this work. 
+AcadMathSci's Policy Unit is grateful to Dr Daniel Herring, Prof. Colin Turner, and the economics team at Public First for their independent review of the methodology and code underpinning this work. 
