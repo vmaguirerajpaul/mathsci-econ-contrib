@@ -42,16 +42,17 @@ python3 compute_all_SOC_maps.py
 python3 estimate_MS_workforce.py
 python3 estimate_GVA_from_workforce.py
 ```
+## License
+Code distributed under the MIT License. See LICENSE.txt for more information.
+
+This repository contains publicly-available datasets from the Office for National Statistics (ONS) licensed under the Open Government Licence v.3.0.
 
 ## Authors
 
 Vinesh Maguire-Rajpaul: <vr325@cantab.ac.uk>
 
-## License
-Code distributed under the MIT License. See LICENSE.txt for more information.
-
-Note that this repository contains publicly-available datasets from the Office for National Statistics (ONS) licensed under the Open Government Licence v.3.0.
 ## Contact
 AcadMathSci Policy Unit: <policyunit@AcadMathSci.org.uk>
+
 ## Acknowledgements
 AcadMathSci's Policy Unit is grateful to  to Prof. Peter Elias CBE, Dr Daniel Herring, Prof. Colin Turner, and the economics team at Public First for their independent review of the methodology and code underpinning this work. 
