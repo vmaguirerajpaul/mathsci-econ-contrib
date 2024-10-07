@@ -19,7 +19,7 @@ openpyxl | ✅ | Reading ONS datasets from .xlsx (Excel) files |
 xlrd | ✅ | Reading ONS datasets from .xls (Excel) files |
 jupyterlab | ❌ | Running code from Jupyter notebooks (optional) |
 
-### Running code
+### Running the code
 Clone or download the repository:
 ```
 git clone https://github.com/vmaguirerajpaul/mathsci-econ-contrib
