@@ -4,7 +4,7 @@ Quantifying the UK economic contribution of the mathematical sciences in 2023 an
 
 
 ## Background
-In a 2024 report, the Academy for the Mathematical Sciences (AcadMathSci) estimated that 4.2 million people were directly employed in mathematical science occupations, directly adding some £490 bn in gross value (20% of total GVA) to the UK's economy in 2023. 
+In a 2024 report, the Academy for the Mathematical Sciences (AcadMathSci) estimated that 4.22 million people were directly employed in mathematical science occupations, directly adding some £495 bn in gross value (20% of total GVA) to the UK's economy in 2023. 
 
 This repository contains all code used to perform the analysis leading to those estimates.
 
@@ -45,7 +45,7 @@ python3 estimate_GVA_from_workforce.py
 ## License
 Code distributed under the MIT License. See LICENSE.txt for more information.
 
-This repository contains publicly-available datasets from the Office for National Statistics (ONS) licensed under the Open Government Licence v.3.0.
+The repository contains publicly-available datasets from the Office for National Statistics (ONS). These datasets are licensed under the Open Government Licence v 3.0.
 
 ## Authors
 
