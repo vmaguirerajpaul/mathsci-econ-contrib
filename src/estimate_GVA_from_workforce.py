@@ -9,10 +9,7 @@ __author__ = 'Vinesh Maguire Rajpaul'
 __email__ = 'vr325@cantab.ac.uk'
 __status__ = 'Development'
 
-import itertools
 import pickle
-import sys
-
 import pandas as pd
 import numpy as np
 
@@ -38,7 +35,7 @@ INCL_SELF_EMP = True
 OUTPUT_YEAR = '2023'
 
 # ONS UK GVA totals for various years [https://tinyurl.com/2meha42b]
-GVA = pd.read_csv('../data/raw/GVA/GVA-series-170924.csv', header=None)
+GVA = pd.read_csv('../data/raw/GVA/GVA-series-141024.csv', header=None)
 UK_GVA = {year: np.double(GVA[1][np.where(GVA[0].values == year)[0][0]])/1000
           for year in ['2010', '2011', '2022', '2023']}
 
@@ -102,7 +99,7 @@ SIC_4d_2d = {k1: k2 for k1, k2 in zip(SIC07_4d, SIC07_2d)}
 SOC_labels = {key: ix for ix, key in enumerate(SOC2010)}
 
 # Create SOC-SIC numeric matrix for computing weights (2018, S2010);
-#  ignore first column, which isn't a SIC code
+# ignore first column, which isn't a SIC code
 SS = np.double(SOC_SIC.values[:, 1::])
 
 # Lists to store all GVA, productivity, and workforce estimates
@@ -198,14 +195,14 @@ for k, v in MSW_all.items():
             total_jobs = (employee_jobs + SE_jobs)
             SIC2d_MS_frac[code] = SIC2d_MS[code]/total_jobs
         else:
-            SIC_2d_MS_frac[code] = SIC2d_MS[code]/employee_jobs
+            SIC2d_MS_frac[code] = SIC2d_MS[code]/employee_jobs
 
         # for counting how many MS jobs unmapped
         MS_jobs_mapped_into_fracs += SIC2d_MS[code]
 
     # Fraction of MS jobs mapped into SIC sector fractional employments
     MS_jobs_unmapped_into_fracs = np.sum(SIC_MS)-MS_jobs_mapped_into_fracs
-    #correction_factor = np.sum(SIC_MS)/MS_jobs_mapped_into_fracs
+    # correction_factor = np.sum(SIC_MS)/MS_jobs_mapped_into_fracs
 
     SIC2d_MS = {k: v for (k, v) in zip(SIC2d_MS.keys(), SIC2d_MS.values())}
 
@@ -304,31 +301,19 @@ for k, v in MSW_all.items():
 
 if VERBOSE > 0:
 
-    print(f'\n{"="*70}\nAll MS workforce configurations (total:',
-          f'{n_config})\n{"="*70}')
+    print(f'\n{"="*70}\nAll MS workforce configurations (total: {n_config})\n{"="*70}')
     print(f'Distribution\tMean ± std.\t\tPercentiles [16, 50, 84]th\n{"-"*70}')
-
-    print(f'Workforce:\t{np.mean(MS_WF_all):,.2f}',
-          f'± {np.std(MS_WF_all):,.2f} mn', end='')
-    print('\t\t[{0:,.2f}; {1:,.2f}; {2:,.2f}] mn'.format(
-        *pctl(MS_WF_all, [16, 50, 84])))
-
-    print(f'Direct GVA:\t£{np.mean(GVA_all):,.2f}',
-          f'± {np.std(GVA_all):.2f} bn', end='')
-    print('\t[{0:.2f}; {1:.2f}; {2:.2f}] bn'.format(
-        *pctl(GVA_all, [16, 50, 84])))
-
-    print(f'Productivity:\t£{np.mean(prod_all):,.0f}',
-          f'± {np.std(prod_all):,.0f}', end='')
-    print('\t[{0:,.0f}; {1:,.0f}; {2:,.0f}]'.format(
-        *pctl(prod_all, [16, 50, 84])))
+    print(f'Workforce:\t{np.mean(MS_WF_all):,.2f} ± {np.std(MS_WF_all):,.2f} mn', end='')
+    print('\t\t[{0:,.2f}; {1:,.2f}; {2:,.2f}] mn'.format(*pctl(MS_WF_all, [16, 50, 84])))
+    print(f'Direct GVA:\t£{np.mean(GVA_all):,.2f} ± {np.std(GVA_all):.2f} bn', end='')
+    print('\t[{0:.2f}; {1:.2f}; {2:.2f}] bn'.format(*pctl(GVA_all, [16, 50, 84])))
+    print(f'Productivity:\t£{np.mean(prod_all):,.0f} ± {np.std(prod_all):,.0f}', end='')
+    print('\t[{0:,.0f}; {1:,.0f}; {2:,.0f}]'.format(*pctl(prod_all, [16, 50, 84])))
     print(f'{"-"*70}')
-
     print(f'\n{"="*40}\nUK as a whole (for comparison)\n{"="*40}')
     print(f'People in jobs:\t\t{wf_size[OUTPUT_YEAR]/1000:,.2f} mn')
     print(f'Total GVA:\t\t£{UK_GVA[OUTPUT_YEAR]:,.2f} bn')
-    print(f'Productivity:\t\t£' +
-          f'{(1e6*UK_GVA[OUTPUT_YEAR]/wf_size[OUTPUT_YEAR]):,.0f}')
+    print(f'Productivity:\t\t£{(1e6*UK_GVA[OUTPUT_YEAR]/wf_size[OUTPUT_YEAR]):,.0f}')
     print(f'{"-"*40}')
 
 print('\n...done')
@@ -336,6 +321,5 @@ print('\n...done')
 GVA_dict = {'GVA_all': GVA_all, 'prod_all': prod_all, 'MS_WF_all': MS_WF_all}
 
 if SAVE_PICKLE:
-    with open(f'../data/processed/' +
-              f'GVA_all_{OUTPUT_YEAR}.pickle', 'wb') as handle:
+    with open(f'../data/processed/GVA_all_{OUTPUT_YEAR}.pickle', 'wb') as handle:
         pickle.dump(GVA_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
