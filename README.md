@@ -49,7 +49,7 @@ The repository contains publicly-available datasets from the Office for National
 
 ## Authors
 
-Vinesh Maguire-Rajpaul: <vr325@cantab.ac.uk>
+Vinesh Maguire Rajpaul: <vr325@cantab.ac.uk>
 
 ## Contact
 AcadMathSci Policy Unit: <policyunit@AcadMathSci.org.uk>
