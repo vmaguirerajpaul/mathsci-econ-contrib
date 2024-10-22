@@ -13976,7 +13976,7 @@ a.anchor-link {
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[30]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[41]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">run</span> ../src/preprocessing/import_deloitte_data.py
@@ -14017,7 +14017,7 @@ Computing ONS SOC re-basing relationships...done.
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[31]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[42]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">run</span> ../src/compute_all_SOC_maps.py
@@ -14052,7 +14052,7 @@ Computing ONS SOC re-basing relationships...done.
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[32]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[43]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">run</span> ../src/estimate_MS_workforce.py
@@ -14281,7 +14281,7 @@ Year	SOC framework	Workforce
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[33]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[44]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">run</span> ../src/estimate_GVA_from_workforce.py
@@ -14305,84 +14305,171 @@ Year	SOC framework	Workforce
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
 <pre>Estimating GVA contribution from MS workforce estimates...
+
+======================================================================
+Configuration: A_hourly_FTPT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		4.39 mn 	£529.51 bn 	£120,594
+UK avg.		4.39 mn 	£529.51 bn 	£120,594
+MS avg.		4.39 mn 	£529.51 bn 	£120,594
+
+======================================================================
+Configuration: A_hourly_FT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		4.38 mn 	£526.56 bn 	£120,294
+UK avg.		4.38 mn 	£526.56 bn 	£120,294
+MS avg.		4.38 mn 	£526.56 bn 	£120,294
+
+======================================================================
+Configuration: A_annual_FTPT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		4.05 mn 	£482.68 bn 	£119,218
+UK avg.		4.05 mn 	£482.68 bn 	£119,218
+MS avg.		4.05 mn 	£482.68 bn 	£119,218
+
+======================================================================
+Configuration: A_annual_FT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		3.95 mn 	£468.49 bn 	£118,586
+UK avg.		3.95 mn 	£468.49 bn 	£118,586
+MS avg.		3.95 mn 	£468.49 bn 	£118,586
+
+======================================================================
+Configuration: B_hourly_FTPT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		4.19 mn 	£465.04 bn 	£111,092
+UK avg.		4.19 mn 	£465.04 bn 	£111,092
+MS avg.		4.19 mn 	£465.04 bn 	£111,092
+
+======================================================================
+Configuration: B_hourly_FT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		4.21 mn 	£466.54 bn 	£110,708
+UK avg.		4.21 mn 	£466.54 bn 	£110,708
+MS avg.		4.21 mn 	£466.54 bn 	£110,708
+
+======================================================================
+Configuration: B_annual_FTPT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		3.90 mn 	£433.30 bn 	£110,990
+UK avg.		3.90 mn 	£433.30 bn 	£110,990
+MS avg.		3.90 mn 	£433.30 bn 	£110,990
+
+======================================================================
+Configuration: B_annual_FT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		3.92 mn 	£436.01 bn 	£111,098
+UK avg.		3.92 mn 	£436.01 bn 	£111,098
+MS avg.		3.92 mn 	£436.01 bn 	£111,098
+
+======================================================================
+Configuration: C_hourly_FTPT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		4.22 mn 	£493.15 bn 	£116,866
+UK avg.		4.22 mn 	£493.15 bn 	£116,866
+MS avg.		4.22 mn 	£493.15 bn 	£116,866
+
+======================================================================
+Configuration: C_hourly_FT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		4.18 mn 	£488.87 bn 	£116,958
+UK avg.		4.18 mn 	£488.87 bn 	£116,958
+MS avg.		4.18 mn 	£488.87 bn 	£116,958
+
+======================================================================
+Configuration: C_annual_FTPT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		3.91 mn 	£453.93 bn 	£116,223
+UK avg.		3.91 mn 	£453.93 bn 	£116,223
+MS avg.		3.91 mn 	£453.93 bn 	£116,223
+
+======================================================================
+Configuration: C_annual_FT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		3.86 mn 	£449.34 bn 	£116,477
+UK avg.		3.86 mn 	£449.34 bn 	£116,477
+MS avg.		3.86 mn 	£449.34 bn 	£116,477
+
+======================================================================
+Configuration: equal_hourly_FTPT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		4.27 mn 	£489.98 bn 	£114,748
+UK avg.		4.27 mn 	£489.98 bn 	£114,748
+MS avg.		4.27 mn 	£489.98 bn 	£114,748
+
+======================================================================
+Configuration: equal_hourly_FT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		4.26 mn 	£486.28 bn 	£114,146
+UK avg.		4.26 mn 	£486.28 bn 	£114,146
+MS avg.		4.26 mn 	£486.28 bn 	£114,146
+
+======================================================================
+Configuration: equal_annual_FTPT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		3.93 mn 	£449.00 bn 	£114,305
+UK avg.		3.93 mn 	£449.00 bn 	£114,305
+MS avg.		3.93 mn 	£449.00 bn 	£114,305
+
+======================================================================
+Configuration: equal_annual_FT
+======================================================================
+GVA re-app.	Workers		Direct GVA	Productivity
+----------------------------------------------------------------------
+None		3.89 mn 	£447.73 bn 	£115,110
+UK avg.		3.89 mn 	£447.73 bn 	£115,110
+MS avg.		3.89 mn 	£447.73 bn 	£115,110
+
+======================================================================
+All MS workforce configurations (total: 48)
+======================================================================
+Distribution	Mean ± std.		Percentiles [16, 50, 84]th
+----------------------------------------------------------------------
+Workforce:	4.09 ± 0.18 mn		[3.90; 4.11; 4.27] mn
+Direct GVA:	£472.90 ± 27.94 bn	[447.73; 467.52; 493.15] bn
+Productivity:	£115,463 ± 3,200	[111,092; 115,667; 119,218]
+----------------------------------------------------------------------
+
+========================================
+UK as a whole (for comparison)
+========================================
+People in jobs:		33.16 mn
+Total GVA:		£2,431.87 bn
+Productivity:		£73,337
+----------------------------------------
+
+...done
 </pre>
-</div>
-</div>
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr">
-<pre>
-<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
-<span class="ansi-red-fg">FileNotFoundError</span>                         Traceback (most recent call last)
-<span class="ansi-green-fg">~/Cambridge University Dropbox/Vinesh Maguire-Rajpaul/Cambridge/Projects/acadmathsci/deloitte/src/estimate_GVA_from_workforce.py</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span>
-<span class="ansi-green-intense-fg ansi-bold">     54</span>     SE_jobs_vs_SIC <span class="ansi-blue-fg">=</span> pickle<span class="ansi-blue-fg">.</span>load<span class="ansi-blue-fg">(</span>input_file<span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">[</span>jobs_year<span class="ansi-blue-fg">]</span>
-<span class="ansi-green-intense-fg ansi-bold">     55</span> 
-<span class="ansi-green-fg">---&gt; 56</span><span class="ansi-red-fg"> SE_WF_ratios = pd.read_csv(
-</span><span class="ansi-green-intense-fg ansi-bold">     57</span>     f&#39;../data/raw/self-employment/SE_WF_ratios/SE_WF_ratios_{jobs_year}.csv&#39;)
-<span class="ansi-green-intense-fg ansi-bold">     58</span> 
-
-<span class="ansi-green-fg">~/opt/anaconda3/lib/python3.9/site-packages/pandas/util/_decorators.py</span> in <span class="ansi-cyan-fg">wrapper</span><span class="ansi-blue-fg">(*args, **kwargs)</span>
-<span class="ansi-green-intense-fg ansi-bold">    309</span>                     stacklevel<span class="ansi-blue-fg">=</span>stacklevel<span class="ansi-blue-fg">,</span>
-<span class="ansi-green-intense-fg ansi-bold">    310</span>                 )
-<span class="ansi-green-fg">--&gt; 311</span><span class="ansi-red-fg">             </span><span class="ansi-green-fg">return</span> func<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">*</span>args<span class="ansi-blue-fg">,</span> <span class="ansi-blue-fg">**</span>kwargs<span class="ansi-blue-fg">)</span>
-<span class="ansi-green-intense-fg ansi-bold">    312</span> 
-<span class="ansi-green-intense-fg ansi-bold">    313</span>         <span class="ansi-green-fg">return</span> wrapper
-
-<span class="ansi-green-fg">~/opt/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py</span> in <span class="ansi-cyan-fg">read_csv</span><span class="ansi-blue-fg">(filepath_or_buffer, sep, delimiter, header, names, index_col, usecols, squeeze, prefix, mangle_dupe_cols, dtype, engine, converters, true_values, false_values, skipinitialspace, skiprows, skipfooter, nrows, na_values, keep_default_na, na_filter, verbose, skip_blank_lines, parse_dates, infer_datetime_format, keep_date_col, date_parser, dayfirst, cache_dates, iterator, chunksize, compression, thousands, decimal, lineterminator, quotechar, quoting, doublequote, escapechar, comment, encoding, encoding_errors, dialect, error_bad_lines, warn_bad_lines, on_bad_lines, delim_whitespace, low_memory, memory_map, float_precision, storage_options)</span>
-<span class="ansi-green-intense-fg ansi-bold">    584</span>     kwds<span class="ansi-blue-fg">.</span>update<span class="ansi-blue-fg">(</span>kwds_defaults<span class="ansi-blue-fg">)</span>
-<span class="ansi-green-intense-fg ansi-bold">    585</span> 
-<span class="ansi-green-fg">--&gt; 586</span><span class="ansi-red-fg">     </span><span class="ansi-green-fg">return</span> _read<span class="ansi-blue-fg">(</span>filepath_or_buffer<span class="ansi-blue-fg">,</span> kwds<span class="ansi-blue-fg">)</span>
-<span class="ansi-green-intense-fg ansi-bold">    587</span> 
-<span class="ansi-green-intense-fg ansi-bold">    588</span> 
-
-<span class="ansi-green-fg">~/opt/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py</span> in <span class="ansi-cyan-fg">_read</span><span class="ansi-blue-fg">(filepath_or_buffer, kwds)</span>
-<span class="ansi-green-intense-fg ansi-bold">    480</span> 
-<span class="ansi-green-intense-fg ansi-bold">    481</span>     <span class="ansi-red-fg"># Create the parser.</span>
-<span class="ansi-green-fg">--&gt; 482</span><span class="ansi-red-fg">     </span>parser <span class="ansi-blue-fg">=</span> TextFileReader<span class="ansi-blue-fg">(</span>filepath_or_buffer<span class="ansi-blue-fg">,</span> <span class="ansi-blue-fg">**</span>kwds<span class="ansi-blue-fg">)</span>
-<span class="ansi-green-intense-fg ansi-bold">    483</span> 
-<span class="ansi-green-intense-fg ansi-bold">    484</span>     <span class="ansi-green-fg">if</span> chunksize <span class="ansi-green-fg">or</span> iterator<span class="ansi-blue-fg">:</span>
-
-<span class="ansi-green-fg">~/opt/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py</span> in <span class="ansi-cyan-fg">__init__</span><span class="ansi-blue-fg">(self, f, engine, **kwds)</span>
-<span class="ansi-green-intense-fg ansi-bold">    809</span>             self<span class="ansi-blue-fg">.</span>options<span class="ansi-blue-fg">[</span><span class="ansi-blue-fg">&#34;has_index_names&#34;</span><span class="ansi-blue-fg">]</span> <span class="ansi-blue-fg">=</span> kwds<span class="ansi-blue-fg">[</span><span class="ansi-blue-fg">&#34;has_index_names&#34;</span><span class="ansi-blue-fg">]</span>
-<span class="ansi-green-intense-fg ansi-bold">    810</span> 
-<span class="ansi-green-fg">--&gt; 811</span><span class="ansi-red-fg">         </span>self<span class="ansi-blue-fg">.</span>_engine <span class="ansi-blue-fg">=</span> self<span class="ansi-blue-fg">.</span>_make_engine<span class="ansi-blue-fg">(</span>self<span class="ansi-blue-fg">.</span>engine<span class="ansi-blue-fg">)</span>
-<span class="ansi-green-intense-fg ansi-bold">    812</span> 
-<span class="ansi-green-intense-fg ansi-bold">    813</span>     <span class="ansi-green-fg">def</span> close<span class="ansi-blue-fg">(</span>self<span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">:</span>
-
-<span class="ansi-green-fg">~/opt/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/readers.py</span> in <span class="ansi-cyan-fg">_make_engine</span><span class="ansi-blue-fg">(self, engine)</span>
-<span class="ansi-green-intense-fg ansi-bold">   1038</span>             )
-<span class="ansi-green-intense-fg ansi-bold">   1039</span>         <span class="ansi-red-fg"># error: Too many arguments for &#34;ParserBase&#34;</span>
-<span class="ansi-green-fg">-&gt; 1040</span><span class="ansi-red-fg">         </span><span class="ansi-green-fg">return</span> mapping<span class="ansi-blue-fg">[</span>engine<span class="ansi-blue-fg">]</span><span class="ansi-blue-fg">(</span>self<span class="ansi-blue-fg">.</span>f<span class="ansi-blue-fg">,</span> <span class="ansi-blue-fg">**</span>self<span class="ansi-blue-fg">.</span>options<span class="ansi-blue-fg">)</span>  <span class="ansi-red-fg"># type: ignore[call-arg]</span>
-<span class="ansi-green-intense-fg ansi-bold">   1041</span> 
-<span class="ansi-green-intense-fg ansi-bold">   1042</span>     <span class="ansi-green-fg">def</span> _failover_to_python<span class="ansi-blue-fg">(</span>self<span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">:</span>
-
-<span class="ansi-green-fg">~/opt/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py</span> in <span class="ansi-cyan-fg">__init__</span><span class="ansi-blue-fg">(self, src, **kwds)</span>
-<span class="ansi-green-intense-fg ansi-bold">     49</span> 
-<span class="ansi-green-intense-fg ansi-bold">     50</span>         <span class="ansi-red-fg"># open handles</span>
-<span class="ansi-green-fg">---&gt; 51</span><span class="ansi-red-fg">         </span>self<span class="ansi-blue-fg">.</span>_open_handles<span class="ansi-blue-fg">(</span>src<span class="ansi-blue-fg">,</span> kwds<span class="ansi-blue-fg">)</span>
-<span class="ansi-green-intense-fg ansi-bold">     52</span>         <span class="ansi-green-fg">assert</span> self<span class="ansi-blue-fg">.</span>handles <span class="ansi-green-fg">is</span> <span class="ansi-green-fg">not</span> <span class="ansi-green-fg">None</span>
-<span class="ansi-green-intense-fg ansi-bold">     53</span> 
-
-<span class="ansi-green-fg">~/opt/anaconda3/lib/python3.9/site-packages/pandas/io/parsers/base_parser.py</span> in <span class="ansi-cyan-fg">_open_handles</span><span class="ansi-blue-fg">(self, src, kwds)</span>
-<span class="ansi-green-intense-fg ansi-bold">    220</span>         Let the readers open IOHandles after they are done <span class="ansi-green-fg">with</span> their potential raises<span class="ansi-blue-fg">.</span>
-<span class="ansi-green-intense-fg ansi-bold">    221</span>         &#34;&#34;&#34;
-<span class="ansi-green-fg">--&gt; 222</span><span class="ansi-red-fg">         self.handles = get_handle(
-</span><span class="ansi-green-intense-fg ansi-bold">    223</span>             src<span class="ansi-blue-fg">,</span>
-<span class="ansi-green-intense-fg ansi-bold">    224</span>             <span class="ansi-blue-fg">&#34;r&#34;</span><span class="ansi-blue-fg">,</span>
-
-<span class="ansi-green-fg">~/opt/anaconda3/lib/python3.9/site-packages/pandas/io/common.py</span> in <span class="ansi-cyan-fg">get_handle</span><span class="ansi-blue-fg">(path_or_buf, mode, encoding, compression, memory_map, is_text, errors, storage_options)</span>
-<span class="ansi-green-intense-fg ansi-bold">    700</span>         <span class="ansi-green-fg">if</span> ioargs<span class="ansi-blue-fg">.</span>encoding <span class="ansi-green-fg">and</span> <span class="ansi-blue-fg">&#34;b&#34;</span> <span class="ansi-green-fg">not</span> <span class="ansi-green-fg">in</span> ioargs<span class="ansi-blue-fg">.</span>mode<span class="ansi-blue-fg">:</span>
-<span class="ansi-green-intense-fg ansi-bold">    701</span>             <span class="ansi-red-fg"># Encoding</span>
-<span class="ansi-green-fg">--&gt; 702</span><span class="ansi-red-fg">             handle = open(
-</span><span class="ansi-green-intense-fg ansi-bold">    703</span>                 handle<span class="ansi-blue-fg">,</span>
-<span class="ansi-green-intense-fg ansi-bold">    704</span>                 ioargs<span class="ansi-blue-fg">.</span>mode<span class="ansi-blue-fg">,</span>
-
-<span class="ansi-red-fg">FileNotFoundError</span>: [Errno 2] No such file or directory: &#39;../data/raw/self-employment/SE_WF_ratios/SE_WF_ratios_2023.csv&#39;</pre>
 </div>
 </div>
 
@@ -14398,7 +14485,7 @@ Year	SOC framework	Workforce
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[36]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span>%%bash 
@@ -14423,7 +14510,7 @@ jupyter nbconvert --to html 01_main_analysis.ipynb
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr">
 <pre>[NbConvertApp] Converting notebook 01_main_analysis.ipynb to html
-[NbConvertApp] Writing 574655 bytes to 01_main_analysis.html
+[NbConvertApp] Writing 575253 bytes to 01_main_analysis.html
 </pre>
 </div>
 </div>
