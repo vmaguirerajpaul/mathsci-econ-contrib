@@ -33,7 +33,7 @@ cd mathsci-econ-contrib/src/
 then run the pre-processing scripts in this order:
 ```
 python3 ./preprocessing/import_deloitte_data.py
-python3 ./import_deloitte_data.py
+python3 ./preprocessing/import_ASHE_tables.py
 python3 ./compute_ONS_SOC_relationships.py
 ```
 Finally, to perform the main (though not salary distribution) analysis, run the scripts:
